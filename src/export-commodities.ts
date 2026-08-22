@@ -30,7 +30,7 @@ function uploadedImageUrl({ commodityCode }: Commodity) {
   return `https://storage.yandexcloud.net/${YC_BUCKET}/${commodityCode}.png`;
 }
 
-async function renderCommodityImage(commodity: Commodity, tmpDir: string) {
+async function renderImage(commodity: Commodity, tmpDir: string) {
   const response = await fetch(commodity.commodityImg);
   const buffer = await response.arrayBuffer();
 
@@ -53,7 +53,7 @@ async function renderCommodityImage(commodity: Commodity, tmpDir: string) {
 
 async function uploadImages(commodities: Commodity[]) {
   const tmpDir = await mkdtemp(join(tmpdir(), "bar-na-vinos-"));
-  await Promise.all(commodities.map((commodity) => renderCommodityImage(commodity, tmpDir)));
+  await Promise.all(commodities.map((commodity) => renderImage(commodity, tmpDir)));
   await $`yc storage s3 cp ${tmpDir} s3://${YC_BUCKET}/ --recursive`;
   await rm(tmpDir, { recursive: true });
 }
