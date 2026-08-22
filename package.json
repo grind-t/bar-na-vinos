@@ -27,6 +27,7 @@
     "oxlint-tsgolint": "latest"
   },
   "dependencies": {
+    "sharp": "^0.35.3",
     "zx": "^8.8.5"
   }
 }
