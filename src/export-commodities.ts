@@ -1,29 +1,22 @@
-import fs from "node:fs/promises";
-import os from "node:os";
-import path from "node:path";
+import { mkdtemp, rm } from "node:fs/promises";
+import { tmpdir } from "node:os";
+import { join } from "node:path";
+
 import type { Commodity } from "@grind-t/loyalsuns";
 import sharp from "sharp";
 import { $ } from "zx";
 
-const BUCKET = "bar-na-vinos-public";
+const YC_BUCKET = "bar-na-vinos-public";
 
 const commodities: Commodity[] =
   await $`loyalsuns commodities --size 50 2029385561100861442`.json();
-
 const publicCommodities = commodities.filter(isPublicCommodity);
 
-const tmpDir = await fs.mkdtemp(path.join(os.tmpdir(), "bar-na-vinos-"));
-
-await Promise.all(
-  publicCommodities.map((commodity) => renderCommodityImage(commodity, tmpDir)),
-);
-
-await $`yc storage s3 cp ${tmpDir} s3://${BUCKET}/ --recursive`;
-await fs.rm(tmpDir, { recursive: true });
+await uploadImages(publicCommodities);
 
 const result = publicCommodities.map((commodity) => ({
   name: commodity.commodityName,
-  image: `https://storage.yandexcloud.net/${BUCKET}/${commodity.commodityCode}.png`,
+  image: `https://storage.yandexcloud.net/${YC_BUCKET}/${commodity.commodityCode}.png`,
   hot: !!commodity.coldOrHot,
 }));
 
@@ -51,5 +44,12 @@ async function renderCommodityImage(commodity: Commodity, tmpDir: string) {
       background: { r: 0, g: 0, b: 0, alpha: 0 },
     })
     .png()
-    .toFile(path.join(tmpDir, `${commodity.commodityCode}.png`));
+    .toFile(join(tmpDir, `${commodity.commodityCode}.png`));
+}
+
+async function uploadImages(commodities: Commodity[]) {
+  const tmpDir = await mkdtemp(join(tmpdir(), "bar-na-vinos-"));
+  await Promise.all(commodities.map((commodity) => renderCommodityImage(commodity, tmpDir)));
+  await $`yc storage s3 cp ${tmpDir} s3://${YC_BUCKET}/ --recursive`;
+  await rm(tmpDir, { recursive: true });
 }
