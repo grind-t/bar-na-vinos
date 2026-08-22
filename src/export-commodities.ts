@@ -8,22 +8,26 @@ import { $ } from "zx";
 
 const YC_BUCKET = "bar-na-vinos-public";
 
-const commodities: Commodity[] =
-  await $`loyalsuns commodities --size 50 2029385561100861442`.json();
-const publicCommodities = commodities.filter(isPublicCommodity);
+const commodities = await $`loyalsuns commodities --size 50 2029385561100861442`
+  .json()
+  .then((v: Commodity[]) => v.filter(isPublicCommodity));
 
-await uploadImages(publicCommodities);
+await uploadImages(commodities);
 
-const result = publicCommodities.map((commodity) => ({
-  name: commodity.commodityName,
-  image: `https://storage.yandexcloud.net/${YC_BUCKET}/${commodity.commodityCode}.png`,
-  hot: !!commodity.coldOrHot,
+const result = commodities.map((v) => ({
+  name: v.commodityName,
+  image: uploadedImageUrl(v),
+  hot: !!v.coldOrHot,
 }));
 
 console.log(JSON.stringify(result, null, 2));
 
 function isPublicCommodity({ status, categoriesName }: Commodity) {
   return !!status && !["test", "water"].includes(categoriesName);
+}
+
+function uploadedImageUrl({ commodityCode }: Commodity) {
+  return `https://storage.yandexcloud.net/${YC_BUCKET}/${commodityCode}.png`;
 }
 
 async function renderCommodityImage(commodity: Commodity, tmpDir: string) {
