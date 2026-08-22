@@ -16,7 +16,8 @@
     "lint": "oxlint --fix",
     "test:unit": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.unit.test.ts\"",
     "test:e2e": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.e2e.test.ts\"",
-    "test": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.test.ts\""
+    "test": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.test.ts\"",
+    "export:commodities": "node --experimental-transform-types src/export-commodities.ts"
   },
   "devDependencies": {
     "@types/node": "latest",
