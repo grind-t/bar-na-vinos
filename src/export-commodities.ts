@@ -1,25 +1,10 @@
-import { execFileSync } from "node:child_process";
+import type { Commodity } from "@grind-t/loyalsuns";
+import { $ } from "zx";
 
-interface RawCommodity {
-  status: number;
-  commodityName: string;
-  commodityImg: string;
-  coldOrHot: number;
-}
+const commodities: Commodity[] =
+  await $`loyalsuns commodities --size 50 2029385561100861442`.json();
 
-interface Commodity {
-  name: string;
-  image: string;
-  hot: boolean;
-}
-
-const output = execFileSync("loyalsuns", ["commodities", "--size", "50", "2029385561100861442"], {
-  encoding: "utf8",
-});
-
-const commodities: RawCommodity[] = JSON.parse(output);
-
-const result: Commodity[] = commodities
+const result = commodities
   .filter((commodity) => !!commodity.status)
   .map((commodity) => ({
     name: commodity.commodityName,

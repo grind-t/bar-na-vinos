@@ -20,9 +20,13 @@
     "export:commodities": "node --experimental-transform-types src/export-commodities.ts"
   },
   "devDependencies": {
+    "@grind-t/loyalsuns": "^1.0.2",
     "@types/node": "latest",
     "oxfmt": "latest",
     "oxlint": "latest",
     "oxlint-tsgolint": "latest"
+  },
+  "dependencies": {
+    "zx": "^8.8.5"
   }
 }
