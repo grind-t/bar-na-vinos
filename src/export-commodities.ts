@@ -18,7 +18,7 @@ await uploadImages(commodities);
 await exportForYandexMap(commodities);
 
 function isPublicCommodity({ status, categoriesName }: Commodity) {
-  return !!status && !["test", "water"].includes(categoriesName);
+  return !!status && !["тест", "вода"].includes(categoriesName.toLowerCase());
 }
 
 async function renderImage(commodity: Commodity, tmpDir: string) {
