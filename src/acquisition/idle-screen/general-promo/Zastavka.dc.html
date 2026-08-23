@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Manrope:wght@500;600;700&display=swap" />
+  <style>
+    html, body { margin: 0; padding: 0; background: #F6F2EA; }
+    a { color: #B08442; text-decoration: none; }
+    a:hover { color: #2B2420; }
+  </style>
+  <script>window.OM_SCENES = '[{"name":"Открытие","dur":4.5},{"name":"Цена","dur":5,"price":129.99,"nat":5},{"name":"Ингредиенты","dur":8},{"name":"Технология","dur":6},{"name":"Гигиена","dur":3.5},{"name":"Призыв","dur":3,"price":119.99}]';</script>
+  <script>window.OM_PLAYBACK = '{"mode":"loop"}';</script>
+  <script>window.TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
+    "gold": "#C4A469",
+    "motionEditor": true
+  }/*EDITMODE-END*/;</script>
+</helmet>
+<div style="position: absolute; inset: 0; background: #F6F2EA;">
+  <x-import component-from-global-scope="CoffeeAttract" from="./animations-v2.jsx ./tweaks-panel.jsx ./attract-scenes.jsx" hint-size="100%,100%"></x-import>
+</div>
+</x-dc>
+</body>
+</html>
