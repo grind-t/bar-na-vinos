@@ -8,7 +8,7 @@ import * as XLSX from "xlsx";
 import { $ } from "zx";
 
 const YC_BUCKET = "bar-na-vinos-public";
-const EXPORTS_DIR = join(import.meta.dirname, "exports");
+const EXPORTS_DIR = join(import.meta.dirname, "..", "exports");
 
 const commodities = await $`loyalsuns commodities --size 50 2029385561100861442`
   .json()
