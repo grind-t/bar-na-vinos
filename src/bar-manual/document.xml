@@ -1,0 +1,6101 @@
+<doclang version="0.7">
+  <page_header>
+    <layer value="furniture"/>
+    <location value="29"/>
+    <location value="42"/>
+    <location value="108"/>
+    <location value="48"/>
+    Version: 20260528
+  </page_header>
+  <heading level="2">
+    <location value="71"/>
+    <location value="63"/>
+    <location value="444"/>
+    <location value="124"/>
+    MR2-14BC-A Commercial coffee vending machine user manual
+  </heading>
+  <picture>
+    <location value="160"/>
+    <location value="139"/>
+    <location value="350"/>
+    <location value="381"/>
+    <src uri="assets/image_000000_38497130c9572105488ca581431c60e69a1e5ad67ae83b48915a006c26c916a7.png"/>
+  </picture>
+  <text>
+    <location value="202"/>
+    <location value="392"/>
+    <location value="310"/>
+    <location value="406"/>
+    Please read the manual before operating
+  </text>
+  <text>
+    <location value="106"/>
+    <location value="420"/>
+    <location value="412"/>
+    <location value="445"/>
+    Hebei Langlichen Electronic Technology Co., Ltd. www.loyalsuns.com
+  </text>
+  <page_break/>
+  <index>
+    <location value="36"/>
+    <location value="42"/>
+    <location value="473"/>
+    <location value="482"/>
+    <ched/>
+    Content
+    <ecel/>
+    <nl/>
+    <fcel/>
+    1.Preface ······························································································································································································3
+    <ecel/>
+    <nl/>
+    <fcel/>
+    2. Safety advice
+    <fcel/>
+    ·················································································································································································3
+    <nl/>
+    <fcel/>
+    3. Exterior view
+    <fcel/>
+    ·················································································································································································5
+    <nl/>
+    <fcel/>
+    4. Interior view
+    <fcel/>
+    ··················································································································································································5
+    <nl/>
+    <fcel/>
+    5. Specifications
+    <fcel/>
+    ················································································································································································6
+    <nl/>
+    <fcel/>
+    6. Installation ··· ··················································································································································································7
+    <ecel/>
+    <nl/>
+    <fcel/>
+    6.1 Preparation before installation ·····································································································································8
+    <ecel/>
+    <nl/>
+    <fcel/>
+    6.1.1 Attention before installation ······························································································································8
+    <ecel/>
+    <nl/>
+    <fcel/>
+    6.1.2 Distance requirements ·········································································································································8
+    <ecel/>
+    <nl/>
+    <fcel/>
+    6.1.3 Adjust casters
+    <fcel/>
+    ···························································································································································8
+    <nl/>
+    <fcel/>
+    6.1.4 Install packing table ··············································································································································9
+    <ecel/>
+    <nl/>
+    <fcel/>
+    6.2 Materials and power on ····················································································································································9
+    <ecel/>
+    <nl/>
+    <fcel/>
+    6.2.1 Place water·
+    <fcel/>
+    ·······························································································································································9
+    <nl/>
+    <fcel/>
+    6.2.2 Place waste water bucket and coffee grounds bucket ·············································································9
+    <ecel/>
+    <nl/>
+    <fcel/>
+    6.2.3 Power on ·································································································································································10
+    <ecel/>
+    <nl/>
+    <fcel/>
+    6.2.4 Function buttons
+    <fcel/>
+    ··················································································································································10
+    <nl/>
+    <fcel/>
+    7. How to use ··················································································································································································11
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.1 Place materials ··································································································································································12
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.1.1 Place coffee bean hopper and beans ···········································································································12
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.1.2 Place powder materials and tea powder······································································································12
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.1.3 Place canisters· ······················································································································································12
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.1.4 Place syrup ·····························································································································································13
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.1.5 Place cups ·······························································································································································13
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.1.6 Place straws ···························································································································································13
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.1.7 Place lids ·································································································································································14
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.2 Product test· ······································································································································································14
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.3 Adjust recipes····· ··· ··························································································································································14
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.3.1 Adjusting methods ··············································································································································15
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.3.2 Notes on setting recipes ···································································································································16
+    <ecel/>
+    <nl/>
+    <fcel/>
+<![CDATA[7.3.3 'SMB'··································································································································································16]]>    <ecel/>
+    <nl/>
+    <fcel/>
+<![CDATA[7.3.4 'SMB' parameter settings]]>    <fcel/>
+    ··························································································································17
+    <nl/>
+    <fcel/>
+    7.4 Products settings· ····························································································································································18
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.4.1 Material names ·····················································································································································18
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.4.2 Product category ··················································································································································18
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.4.3 Product information ···········································································································································19
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.4.4
+    <fcel/>
+    DIY·············································································································································································19
+    <nl/>
+    <fcel/>
+    7.5 Recipe adjustment after changing materials ········································································································20
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.5.1 Adjust recipe
+    <fcel/>
+    ··························································································································································20
+    <nl/>
+    <fcel/>
+    7.5.2 Material calibration ·············································································································································20
+    <ecel/>
+    <nl/>
+    <fcel/>
+    7.5.3 Remove brewer
+    <fcel/>
+    ·····················································································································································20
+    <nl/>
+  </index>
+  <text>
+    <location value="475"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    1
+  </text>
+  <page_break/>
+  <index>
+    <location value="37"/>
+    <location value="46"/>
+    <location value="472"/>
+    <location value="478"/>
+    <rhed/>
+    7.6 Selection screen ·······························································································································································21
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.6.1 Make drink ·····························································································································································21
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.6.2 Add payment method ········································································································································21
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.7 Inventory and sold out ··················································································································································22
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.7.1 Inventory management ·····································································································································22
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.7.2 Sold out method ··················································································································································22
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.8 Machine settings···· ·························································································································································23
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.8.1 UI settings ·······························································································································································23
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.8.2 Advertising settings ············································································································································23
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.8.3 Audio settings ·······················································································································································23
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.8.4 Copy machine ·······················································································································································24
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.8.5 Parameter settings ··············································································································································24
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.9 Campaign settings ··························································································································································24
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.9.1 Buy one and get one free ·································································································································24
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.9.2 Pick up code ··························································································································································25
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.10 Data· ···················································································································································································26
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.10.1 Sales data ·····························································································································································26
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.10.2 Replenishment and consumption log ········································································································26
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.11 Status · ··············································································································································································26
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.12 Remote control ·· ··························································································································································27
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.13 Sub-account· · ································································································································································27
+    <ecel/>
+    <nl/>
+    <rhed/>
+    7.14 Change account information ····································································································································28
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8. Cleaning and maintenance ··················································································································································29
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8.1 Overview ······· ·····································································································································································30
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8.2 Daily cleaning and maintenance ································································································································30
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8.2.1 Clean Canister and nozzle ································································································································30
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8.2.2 Clean mixer ····························································································································································31
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8.2.3 Clean pump tube ·················································································································································31
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8.2.4 Clean pick-up compartment ····························································································································31
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8.2.5 Clean consumable compartment ···················································································································31
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8.2.6 Replace barreled water ······································································································································31
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8.2.7 Machine cleaning ·················································································································································32
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8.2.8 Ice dispensing and cleaning of ice maker ···································································································32
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8.2.9 Daily cleaning for other parts ··························································································································32
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8.3 Regular cleaning and maintenance ··························································································································33
+    <ecel/>
+    <nl/>
+    <fcel/>
+    8.3.1 Grinder nozzle cleaning
+    <fcel/>
+    ·····································································································································33
+    <nl/>
+    <rhed/>
+    8.3.2 Grinder cleaning ···················································································································································33
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8.3.3 Brewer descaling cleaning ································································································································33
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8.3.4 Air inlet cleaning ··················································································································································34
+    <ecel/>
+    <nl/>
+    <rhed/>
+    8.3.5 Machine sterilization cleaning ························································································································34
+    <ecel/>
+    <nl/>
+    <rhed/>
+    9. Troubleshooting ·······································································································································································36
+    <ecel/>
+    <nl/>
+  </index>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="475"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    2
+  </page_footer>
+  <page_break/>
+  <index>
+    <location value="36"/>
+    <location value="44"/>
+    <location value="473"/>
+    <location value="83"/>
+    <fcel/>
+    10. Storage and transportation ··············································································································································38
+    <nl/>
+    <fcel/>
+    10.1 Storage ·············································································································································································39
+    <nl/>
+    <fcel/>
+    10.1.1 Empty the water pipes ····································································································································39
+    <nl/>
+    <fcel/>
+    10.2 Transportation ································································································································································39
+    <nl/>
+  </index>
+  <heading level="2">
+    <location value="37"/>
+    <location value="91"/>
+    <location value="114"/>
+    <location value="101"/>
+    1. Preface
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="110"/>
+    <location value="453"/>
+    <location value="126"/>
+    Dear users,  thank you for purchasing our products! Before installing the machine, please read the user manual to ensure the proper operation and use of the machine.
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="138"/>
+    <location value="470"/>
+    <location value="165"/>
+    In order to protect your rights and interests, please check whether the machine is damaged or missing parts when receiving the machine. Please contact us If you have any problems during operation, we will try our best to provide services in the shortest time.
+  </text>
+  <heading level="2">
+    <location value="38"/>
+    <location value="172"/>
+    <location value="169"/>
+    <location value="182"/>
+    2.Safety advice !
+  </heading>
+  <table>
+    <location value="29"/>
+    <location value="185"/>
+    <location value="481"/>
+    <location value="490"/>
+    <fcel/>
+    ·
+    <fcel/>
+    Please use purified water with a TDS under 20 mg/L, otherwise, it may affect the stable operation and service life of the equipment!
+    <nl/>
+    <fcel/>
+    ·
+    <fcel/>
+    If the machine water tank is not used for 48 hours, please clean it. If no flow in the water pipe system for 5 days, please clean the device connecting to water supply
+    <nl/>
+    <fcel/>
+    ·
+    <fcel/>
+    If the refrigeration equipment is left idle for a long period, please turn it off, defrost, clean, dry, and leave the door open to prevent mold growth inside the unit.
+    <nl/>
+    <fcel/>
+    ·
+    <fcel/>
+    The machine can only be used indoors!
+    <nl/>
+    <fcel/>
+    ·
+    <fcel/>
+    Keep the machine away from splashing!
+    <nl/>
+    <fcel/>
+    ·
+    <fcel/>
+    Do not clean the equipment with water spray!
+    <nl/>
+    <fcel/>
+    ·
+    <fcel/>
+    The equipment should be placed in a horizontal position.
+    <nl/>
+    <fcel/>
+    ·
+    <fcel/>
+    The equipment can only be installed where it can be maintained and operated by trained personnel.
+    <nl/>
+    <fcel/>
+    ·
+    <fcel/>
+    Please input the correct voltage according to the nameplate of the machine, and connect the ground wire before installation!
+    <nl/>
+    <fcel/>
+    ·
+    <fcel/>
+    Do not operate or store equipment near heat and gas sources. Avoid splashing the machine with water!
+    <nl/>
+    <fcel/>
+    ·
+    <fcel/>
+    The machine cannot be placed outdoors. Please choose our outdoor products for outdoor placement. Our company will not be responsible for equipment damage and personal injury caused by improper placement and operation!
+    <nl/>
+    <fcel/>
+    ·
+    <fcel/>
+    The power supply of the equipment must be disconnected before cleaning and maintenance!
+    <nl/>
+    <fcel/>
+    ·
+    <fcel/>
+    Do not drag the cable when unplugging!
+    <nl/>
+    <fcel/>
+    ·
+    <fcel/>
+    Do not put the machine and power cable in water!
+    <nl/>
+    <fcel/>
+    ·
+    <fcel/>
+    Do not tilt the machine when installing or moving!
+    <nl/>
+    <fcel/>
+    ·
+    <fcel/>
+    （ IEC ） This device is not suitable for individuals with decreased physical, sensory, or mental abilities, or lacking experience and knowledge (including children), unless supervised or guided by personnel responsible for their safety. Children should be monitored to ensure that they do not touch this equipment. （ EN ） Children aged 8 and above, as well as individuals with decreased physical, sensory, or mental abilities, or lacking experience and knowledge, may use this equipment if they receive guidance on its use in a safe manner under supervision and are aware of the dangers involved. Children are not allowed to operate this device. Unsupervised children are not allowed to perform cleaning and user maintenance.
+    <nl/>
+  </table>
+  <page_break/>
+  <heading level="2">
+    <location value="41"/>
+    <location value="44"/>
+    <location value="176"/>
+    <location value="54"/>
+    2.Safety advice !
+  </heading>
+  <list>
+    <ldiv>
+      <marker>·</marker>
+    </ldiv>
+    <location value="39"/>
+    <location value="60"/>
+    <location value="456"/>
+    <location value="72"/>
+    For the service life of the equipment and your safety, please use original accessories and do not adjust or modify the machine structure!
+    <ldiv>
+      <marker>·</marker>
+    </ldiv>
+    <location value="39"/>
+    <location value="75"/>
+    <location value="454"/>
+    <location value="88"/>
+    Maintenance, cleaning, and repair work should be completed by professional operation and maintenance personnel!
+    <ldiv>
+      <marker>·</marker>
+    </ldiv>
+    <location value="39"/>
+    <location value="94"/>
+    <location value="235"/>
+    <location value="100"/>
+    Do not use water spray to clean the equipment!
+    <ldiv>
+      <marker>·</marker>
+    </ldiv>
+    <location value="39"/>
+    <location value="109"/>
+    <location value="371"/>
+    <location value="114"/>
+    To ensure health and safety, please wear masks and gloves during operation!
+    <ldiv>
+      <marker>·</marker>
+    </ldiv>
+    <location value="39"/>
+    <location value="121"/>
+    <location value="295"/>
+    <location value="126"/>
+    The equipment should be installed away from water spray.
+    <ldiv>
+      <marker>·</marker>
+    </ldiv>
+    <location value="39"/>
+    <location value="135"/>
+    <location value="404"/>
+    <location value="140"/>
+    The equipment can only be installed where it can be monitored by trained personnel.
+  </list>
+  <text>
+    <location value="57"/>
+    <location value="150"/>
+    <location value="259"/>
+    <location value="155"/>
+    The equipment is suitable for indoor and similar uses:
+  </text>
+  <list>
+    <ldiv>
+      <marker>-</marker>
+    </ldiv>
+    <location value="57"/>
+    <location value="160"/>
+    <location value="331"/>
+    <location value="166"/>
+    Kitchens for employees in shops, offices, and other work environments
+    <ldiv>
+      <marker>-</marker>
+    </ldiv>
+    <location value="57"/>
+    <location value="171"/>
+    <location value="354"/>
+    <location value="177"/>
+    Customers in farmhouses, hotels, motels, and other residential environments
+    <ldiv>
+      <marker>-</marker>
+    </ldiv>
+    <location value="57"/>
+    <location value="182"/>
+    <location value="229"/>
+    <location value="187"/>
+    Accommodation and Breakfast environment
+    <ldiv>
+      <marker>-</marker>
+    </ldiv>
+    <location value="57"/>
+    <location value="192"/>
+    <location value="215"/>
+    <location value="198"/>
+    Catering and similar non-retail purposes
+  </list>
+  <text>
+    <location value="57"/>
+    <location value="203"/>
+    <location value="451"/>
+    <location value="219"/>
+    If the power cord is damaged, it must be replaced by the manufacturer, service agent or similar qualified personnel to avoid accident.
+  </text>
+  <text>
+    <location value="57"/>
+    <location value="224"/>
+    <location value="469"/>
+    <location value="230"/>
+    Do not store explosive substances (such as aerosol cans containing flammable propellants) in the equipment.
+  </text>
+  <list>
+    <ldiv>
+      <marker>·</marker>
+    </ldiv>
+    <location value="39"/>
+    <location value="234"/>
+    <location value="439"/>
+    <location value="240"/>
+    Warning - Keep the ventilation openings on the equipment casing or internal structure unobstructed.
+  </list>
+  <text>
+    <location value="57"/>
+    <location value="246"/>
+    <location value="465"/>
+    <location value="262"/>
+    Warning - Do not use mechanical devices or other methods to accelerate the defrosting process except as recommended by the manufacturer.
+  </text>
+  <text>
+    <location value="57"/>
+    <location value="267"/>
+    <location value="242"/>
+    <location value="272"/>
+    Warning - Do not damage the refrigerant circuit.
+  </text>
+  <list>
+    <ldiv>
+      <marker>·</marker>
+    </ldiv>
+    <location value="39"/>
+    <location value="277"/>
+    <location value="425"/>
+    <location value="294"/>
+    Warning -- Do not use electrical appliances in the storage area of the device unless the type is recommended by the manufacturer.
+    <ldiv>
+      <marker>·</marker>
+    </ldiv>
+    <location value="39"/>
+    <location value="301"/>
+    <location value="428"/>
+    <location value="317"/>
+    Warning: When placing the equipment, please ensure that the power cord is not stuck or damaged Warning: Do not place portable sockets or power sources at the back of the equipment.
+    <ldiv>
+      <marker>·</marker>
+    </ldiv>
+    <location value="39"/>
+    <location value="321"/>
+    <location value="469"/>
+    <location value="334"/>
+    When scrapping the equipment, please only send it to an authorized waste disposal center. Do not expose to fire.
+  </list>
+  <text>
+    <location value="39"/>
+    <location value="339"/>
+    <location value="42"/>
+    <location value="344"/>
+    ·
+  </text>
+  <text>
+    <location value="39"/>
+    <location value="362"/>
+    <location value="42"/>
+    <location value="367"/>
+    ·
+  </text>
+  <text>
+    <location value="57"/>
+    <location value="339"/>
+    <location value="304"/>
+    <location value="344"/>
+    This symbol is a warning symbol for fire/flammable materials
+  </text>
+  <picture>
+    <location value="56"/>
+    <location value="336"/>
+    <location value="73"/>
+    <location value="346"/>
+    <src uri="assets/image_000001_93519079543556169919c3891500a73e71844139818a33d11330aa7726e28903.png"/>
+  </picture>
+  <text>
+    <location value="57"/>
+    <location value="352"/>
+    <location value="464"/>
+    <location value="379"/>
+    The refrigerant circuit of this equipment uses isobutene (R290a) refrigerant, which is a natural gas with high environmental compatibility but is flammable. During the transportation and installation of the equipment, please ensure that no components of the refrigerant circuit are damaged.
+  </text>
+  <list>
+    <ldiv>
+      <marker>·</marker>
+    </ldiv>
+    <location value="39"/>
+    <location value="385"/>
+    <location value="187"/>
+    <location value="390"/>
+    Refrigerant (R290a) is flammable.
+    <ldiv>
+      <marker>·</marker>
+    </ldiv>
+    <location value="39"/>
+    <location value="399"/>
+    <location value="159"/>
+    <location value="404"/>
+    Attention: Fire hazard
+  </list>
+  <picture>
+    <location value="55"/>
+    <location value="395"/>
+    <location value="73"/>
+    <location value="406"/>
+    <src uri="assets/image_000002_517ca75f769d1f2f00a26c1a9dfc6f30537f5b4334a03ed63b2a47ca653aac04.png"/>
+  </picture>
+  <text>
+    <location value="57"/>
+    <location value="412"/>
+    <location value="190"/>
+    <location value="418"/>
+    If the refrigerant circuit is damaged:
+  </text>
+  <text>
+    <location value="39"/>
+    <location value="422"/>
+    <location value="42"/>
+    <location value="427"/>
+    ·
+  </text>
+  <list>
+    <ldiv/>
+    <location value="65"/>
+    <location value="423"/>
+    <location value="196"/>
+    <location value="429"/>
+    Avoid open flames and fire source.
+  </list>
+  <text>
+    <location value="65"/>
+    <location value="434"/>
+    <location value="318"/>
+    <location value="439"/>
+    The room where the equipment is located should be fully ventilated
+  </text>
+  <list>
+    <ldiv>
+      <marker>·</marker>
+    </ldiv>
+    <location value="39"/>
+    <location value="444"/>
+    <location value="198"/>
+    <location value="449"/>
+    Do not store items on the back panel.
+    <ldiv>
+      <marker>·</marker>
+    </ldiv>
+    <location value="39"/>
+    <location value="457"/>
+    <location value="379"/>
+    <location value="463"/>
+    Regularly clean surfaces that may come into contact with food and drainage systems.
+    <ldiv>
+      <marker>·</marker>
+    </ldiv>
+    <location value="39"/>
+    <location value="468"/>
+    <location value="472"/>
+    <location value="480"/>
+    Equipment containing flammable refrigerants should not be used in lobbies or exit locations, such as corridors or public locations.
+  </list>
+  <text>
+    <location value="39"/>
+    <location value="170"/>
+    <location value="42"/>
+    <location value="175"/>
+    ·
+  </text>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="475"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    4
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="44"/>
+    <location value="153"/>
+    <location value="54"/>
+    3.Exterior view
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="52"/>
+    <location value="81"/>
+    <location value="93"/>
+    <location value="87"/>
+    ① Speaker
+    <ldiv/>
+    <location value="52"/>
+    <location value="92"/>
+    <location value="136"/>
+    <location value="98"/>
+    ② Visible bean hopper
+    <ldiv/>
+    <location value="52"/>
+    <location value="103"/>
+    <location value="113"/>
+    <location value="108"/>
+    ③ Coffee aroma
+    <ldiv/>
+    <location value="52"/>
+    <location value="113"/>
+    <location value="106"/>
+    <location value="119"/>
+    ④ Card reader
+    <ldiv/>
+    <location value="52"/>
+    <location value="124"/>
+    <location value="112"/>
+    <location value="130"/>
+    ⑤ Packing table
+    <ldiv/>
+    <location value="52"/>
+    <location value="135"/>
+    <location value="161"/>
+    <location value="140"/>
+    ⑥ Consumable compartment
+    <ldiv/>
+    <location value="52"/>
+    <location value="145"/>
+    <location value="89"/>
+    <location value="151"/>
+    ⑦ Pick-up
+    <ldiv/>
+    <location value="52"/>
+    <location value="156"/>
+    <location value="175"/>
+    <location value="162"/>
+    ⑧ Heavy-duty adjustable casters
+    <ldiv/>
+    <location value="52"/>
+    <location value="166"/>
+    <location value="140"/>
+    <location value="172"/>
+    ⑨ 32-inch touch screen
+    <ldiv/>
+    <location value="52"/>
+    <location value="177"/>
+    <location value="161"/>
+    <location value="183"/>
+    ⑩ Consumable compartment
+  </list>
+  <heading level="2">
+    <location value="37"/>
+    <location value="244"/>
+    <location value="150"/>
+    <location value="254"/>
+    4.Interior view
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="52"/>
+    <location value="273"/>
+    <location value="136"/>
+    <location value="279"/>
+    ① Coffee bean hopper
+    <ldiv/>
+    <location value="52"/>
+    <location value="284"/>
+    <location value="123"/>
+    <location value="289"/>
+    ② Grinding module
+    <ldiv/>
+    <location value="52"/>
+    <location value="294"/>
+    <location value="122"/>
+    <location value="300"/>
+    ③ Brewing module
+    <ldiv/>
+    <location value="52"/>
+    <location value="305"/>
+    <location value="154"/>
+    <location value="310"/>
+    ④Coffee grounds bucket
+    <ldiv/>
+    <location value="52"/>
+    <location value="316"/>
+    <location value="180"/>
+    <location value="321"/>
+    ⑤ Water supply pump module
+    <ldiv/>
+    <location value="52"/>
+    <location value="326"/>
+    <location value="123"/>
+    <location value="332"/>
+    ⑥Barreled water
+    <ldiv/>
+    <location value="52"/>
+    <location value="337"/>
+    <location value="136"/>
+    <location value="343"/>
+    ⑦ Waste water bucket
+    <ldiv/>
+    <location value="52"/>
+    <location value="347"/>
+    <location value="98"/>
+    <location value="353"/>
+    ⑧ Ice maker
+    <ldiv/>
+    <location value="52"/>
+    <location value="358"/>
+    <location value="229"/>
+    <location value="385"/>
+    ⑨ Canisters （ powder canister No.1-No.4 from left to right, tea canister No.1-No.2 from left to right ）
+    <ldiv/>
+    <location value="52"/>
+    <location value="390"/>
+    <location value="82"/>
+    <location value="396"/>
+    ⑩ Mixer
+    <ldiv/>
+    <location value="52"/>
+    <location value="400"/>
+    <location value="225"/>
+    <location value="406"/>
+    ⑪ Pumps(No.1-3 and No.4-6 from left to right)
+    <ldiv/>
+    <location value="52"/>
+    <location value="411"/>
+    <location value="105"/>
+    <location value="417"/>
+    ⑫ Syrup Shelf
+    <ldiv/>
+    <location value="52"/>
+    <location value="422"/>
+    <location value="176"/>
+    <location value="428"/>
+    ⑬ Power, residual current device
+    <ldiv/>
+    <location value="52"/>
+    <location value="432"/>
+    <location value="212"/>
+    <location value="449"/>
+    ⑭ Cup tubes（paper on left, plastic on right
+    <ldiv/>
+    <location value="52"/>
+    <location value="454"/>
+    <location value="113"/>
+    <location value="459"/>
+    ⑮ Cup dropper
+    <ldiv/>
+    <location value="52"/>
+    <location value="464"/>
+    <location value="210"/>
+    <location value="470"/>
+    ⑯ Lids for hot drinks (automatic lifting)
+    <ldiv/>
+    <location value="52"/>
+    <location value="475"/>
+    <location value="213"/>
+    <location value="481"/>
+    ⑰ Lids for iced drinks (automatic lifting)
+  </list>
+  <picture>
+    <location value="256"/>
+    <location value="69"/>
+    <location value="444"/>
+    <location value="236"/>
+    <src uri="assets/image_000003_d90b16eaf1b08b535195d220d8c7fc3bae3a6a875212c580d582e7fedf1c86c5.png"/>
+  </picture>
+  <picture>
+    <location value="255"/>
+    <location value="280"/>
+    <location value="467"/>
+    <location value="451"/>
+    <src uri="assets/image_000004_98fc257fc40feb60384b426545b40f26f826e3e46eb5aa2e14e58a931111d5d2.png"/>
+    <text>
+      <location value="282"/>
+      <location value="310"/>
+      <location value="294"/>
+      <location value="317"/>
+      ➊
+    </text>
+    <text>
+      <location value="282"/>
+      <location value="325"/>
+      <location value="294"/>
+      <location value="332"/>
+      ➋
+    </text>
+    <text>
+      <location value="283"/>
+      <location value="344"/>
+      <location value="295"/>
+      <location value="351"/>
+      ➌
+    </text>
+    <text>
+      <location value="283"/>
+      <location value="365"/>
+      <location value="295"/>
+      <location value="372"/>
+      ➍
+    </text>
+    <text>
+      <location value="291"/>
+      <location value="384"/>
+      <location value="303"/>
+      <location value="390"/>
+      ➎
+    </text>
+    <text>
+      <location value="291"/>
+      <location value="414"/>
+      <location value="303"/>
+      <location value="421"/>
+      ➏
+    </text>
+    <text>
+      <location value="327"/>
+      <location value="414"/>
+      <location value="339"/>
+      <location value="421"/>
+      ➐
+    </text>
+    <text>
+      <location value="305"/>
+      <location value="320"/>
+      <location value="317"/>
+      <location value="327"/>
+      ➑
+    </text>
+    <text>
+      <location value="354"/>
+      <location value="311"/>
+      <location value="366"/>
+      <location value="317"/>
+      ➒
+    </text>
+    <text>
+      <location value="415"/>
+      <location value="348"/>
+      <location value="427"/>
+      <location value="355"/>
+      ⓮
+    </text>
+    <text>
+      <location value="419"/>
+      <location value="380"/>
+      <location value="431"/>
+      <location value="388"/>
+      ⓯
+    </text>
+    <text>
+      <location value="435"/>
+      <location value="412"/>
+      <location value="447"/>
+      <location value="419"/>
+      ⓱
+    </text>
+    <text>
+      <location value="342"/>
+      <location value="333"/>
+      <location value="354"/>
+      <location value="339"/>
+      ➓
+    </text>
+    <text>
+      <location value="337"/>
+      <location value="347"/>
+      <location value="349"/>
+      <location value="355"/>
+      ⓫
+    </text>
+    <text>
+      <location value="344"/>
+      <location value="378"/>
+      <location value="356"/>
+      <location value="386"/>
+      ⓬
+    </text>
+    <text>
+      <location value="370"/>
+      <location value="340"/>
+      <location value="382"/>
+      <location value="347"/>
+      ➌
+    </text>
+    <text>
+      <location value="368"/>
+      <location value="361"/>
+      <location value="380"/>
+      <location value="368"/>
+      ➍
+    </text>
+    <text>
+      <location value="379"/>
+      <location value="303"/>
+      <location value="391"/>
+      <location value="311"/>
+      ⓭
+    </text>
+    <text>
+      <location value="389"/>
+      <location value="347"/>
+      <location value="401"/>
+      <location value="355"/>
+      ⓮
+    </text>
+    <text>
+      <location value="395"/>
+      <location value="380"/>
+      <location value="407"/>
+      <location value="388"/>
+      ⓯
+    </text>
+    <text>
+      <location value="393"/>
+      <location value="411"/>
+      <location value="405"/>
+      <location value="419"/>
+      ⓰
+    </text>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="475"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    5
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="44"/>
+    <location value="164"/>
+    <location value="54"/>
+    5. Specifications
+  </heading>
+  <table>
+    <location value="33"/>
+    <location value="58"/>
+    <location value="477"/>
+    <location value="383"/>
+    <ched/>
+    Model
+    <ched/>
+    MR2-14BC-A
+    <ched/>
+    Paper cup dropper
+    <ched/>
+    1
+    <nl/>
+    <fcel/>
+    Dimension
+    <fcel/>
+    H1950mm×W1060mm×D805mm
+    <fcel/>
+    Paper cups
+    <fcel/>
+    3 tubes (around 110-150)
+    <nl/>
+    <fcel/>
+    Weight
+    <fcel/>
+    325Kg
+    <fcel/>
+    Paper cup specification
+    <fcel/>
+    90mm ， 12/16 oz
+    <nl/>
+    <fcel/>
+    Temperature
+    <fcel/>
+    5-43℃
+    <fcel/>
+    Plastic cup dropper
+    <fcel/>
+    1
+    <nl/>
+    <fcel/>
+    Power
+    <fcel/>
+    220-240V~ 50Hz
+    <fcel/>
+    Plastic cup storage
+    <fcel/>
+    3 tubes (around 150)
+    <nl/>
+    <fcel/>
+    Maximum power
+    <fcel/>
+    2600W
+    <fcel/>
+    Plastic cup specification
+    <fcel/>
+    90/98mm, 16oz
+    <nl/>
+    <fcel/>
+    Standby power
+    <fcel/>
+    ＜150W
+    <fcel/>
+    Cup lid dispensing method
+    <fcel/>
+    Double compartment (hot and cold drinks)
+    <nl/>
+    <fcel/>
+    Screen size
+    <fcel/>
+    32-inch touch screen （ for product selection ）
+    <fcel/>
+    Lid storage
+    <fcel/>
+    Hot and cold drinks 100 sets (including cup lids ,straws and stirring rod)
+    <nl/>
+    <fcel/>
+    Network
+    <fcel/>
+    4G/WIFI 6/RJ45 cable
+    <fcel/>
+    Lid specification
+    <fcel/>
+    Diameter 90mm-98mm
+    <nl/>
+    <fcel/>
+    Payment method
+    <fcel/>
+    Wechat/Alipay/Card reader/Cash/ Third party payment
+    <fcel/>
+    Pumps
+    <fcel/>
+    6
+    <nl/>
+    <fcel/>
+    Cleaning method
+    <fcel/>
+    Standard cleaning/Regular cleaning/Descaling cleaning
+    <fcel/>
+    Canisters
+    <fcel/>
+    4*3L
+    <nl/>
+    <fcel/>
+    Pickup door
+    <fcel/>
+    Transparent lifting-door （ anti-pinch ）
+    <fcel/>
+    Tea canisters
+    <fcel/>
+    2*3L
+    <nl/>
+    <fcel/>
+    Coffee Aroma
+    <fcel/>
+    Installed
+    <fcel/>
+    Brewer
+    <fcel/>
+    2
+    <nl/>
+    <fcel/>
+    Packing table
+    <fcel/>
+    Installed
+    <fcel/>
+    Brewer function
+    <fcel/>
+    1*26g 9bar + tea brewer
+    <nl/>
+    <fcel/>
+    Speaker
+    <fcel/>
+    8Ω10W dual-channel
+    <fcel/>
+    Bean hopper
+    <fcel/>
+    1*2.5kg
+    <nl/>
+    <fcel/>
+    Cup carrying
+    <fcel/>
+    Visible rotating motion cup carrying system
+    <fcel/>
+    Grinder
+    <fcel/>
+    64mm flat burr
+    <nl/>
+    <fcel/>
+    Door lock
+    <fcel/>
+    Electronic+mechanical
+    <fcel/>
+    Ice maker
+    <fcel/>
+    Ice making capacity：120kg/day
+    <nl/>
+    <fcel/>
+    Water supply
+    <fcel/>
+    18L purified barreled water×3 （including direct drinking water inlet）
+    <fcel/>
+    Refrigerant
+    <fcel/>
+    R290
+    <nl/>
+    <fcel/>
+    Heating method
+    <fcel/>
+    1800W High pressure heat-storing boiler
+    <fcel/>
+    Refrigerant volume
+    <fcel/>
+    110g
+    <nl/>
+  </table>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="475"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    6
+  </page_footer>
+  <page_break/>
+  <picture>
+    <location value="0"/>
+    <location value="194"/>
+    <location value="511"/>
+    <location value="295"/>
+    <src uri="assets/image_000005_38e6461862f839f497e0d0cd052d50c389ac86db1ec2a15d75a08b23559e6db3.png"/>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="475"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    7
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="44"/>
+    <location value="317"/>
+    <location value="54"/>
+    6.1  Preparations before installation
+  </heading>
+  <picture>
+    <location value="32"/>
+    <location value="57"/>
+    <location value="55"/>
+    <location value="69"/>
+    <src uri="assets/image_000006_21251106bf034724e1aff299ac212416c4ff2d58a68b47fd448e0fc1c9ff3dfb.png"/>
+    <text>
+      <location value="42"/>
+      <location value="62"/>
+      <location value="45"/>
+      <location value="69"/>
+      !
+    </text>
+  </picture>
+  <heading level="2">
+    <location value="60"/>
+    <location value="61"/>
+    <location value="246"/>
+    <location value="69"/>
+    6.1.1 Attentions before installation
+  </heading>
+  <heading level="2">
+    <location value="37"/>
+    <location value="76"/>
+    <location value="153"/>
+    <location value="81"/>
+    Environment requirement:
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="83"/>
+    <location value="141"/>
+    <location value="88"/>
+    ＊Do not expose to rain
+    <ldiv/>
+    <location value="37"/>
+    <location value="90"/>
+    <location value="191"/>
+    <location value="95"/>
+    ＊ Operating temperature: 5 - 4 3 ℃
+    <ldiv/>
+    <location value="37"/>
+    <location value="97"/>
+    <location value="224"/>
+    <location value="102"/>
+    ＊Install on flat ground, no puddle and dirt
+  </list>
+  <heading level="2">
+    <location value="37"/>
+    <location value="104"/>
+    <location value="127"/>
+    <location value="110"/>
+    P o w e r   s u p p l y ：
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="111"/>
+    <location value="162"/>
+    <location value="117"/>
+    ＊Must connect ground wire
+    <ldiv/>
+    <location value="38"/>
+    <location value="118"/>
+    <location value="231"/>
+    <location value="124"/>
+    ＊220-240V~ 50Hz power supply
+    <ldiv/>
+    <location value="37"/>
+    <location value="125"/>
+    <location value="475"/>
+    <location value="138"/>
+    ＊In the power supply line, the wire diameter of the live wire (L) and the neutral wire (N) shall not be less than 2.5 square millimeters
+  </list>
+  <heading level="2">
+    <location value="37"/>
+    <location value="148"/>
+    <location value="247"/>
+    <location value="155"/>
+    6.1.2  Installation distance requirements
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="160"/>
+    <location value="466"/>
+    <location value="187"/>
+    The distance between the rear of the machine and the wall should be more than 20 cm. The air outlet on top of the machine should be more than 50 cm away from the surrounding objects. Otherwise, it will seriously affect the cooling of the refrigeration system and cause damage.
+  </text>
+  <picture>
+    <location value="142"/>
+    <location value="191"/>
+    <location value="369"/>
+    <location value="293"/>
+    <src uri="assets/image_000007_5a8f7cc4c3dfa65bcf02bb44ef480d671a2521855e74e1c3c1454be5f7844c1b.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="302"/>
+    <location value="151"/>
+    <location value="310"/>
+    6.1.3  Adjust casters
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="315"/>
+    <location value="445"/>
+    <location value="331"/>
+    Transport the machine to the location with forklift. The machine needs to be installed in a dry room without strong light. Place the machine stably by adjusting the casters.
+  </text>
+  <picture>
+    <location value="111"/>
+    <location value="334"/>
+    <location value="176"/>
+    <location value="399"/>
+    <src uri="assets/image_000008_3d53be44e7b9abda135d149db4a1624c9abb54bc6c0421eadd88dd3b6dc65701.png"/>
+  </picture>
+  <picture>
+    <location value="242"/>
+    <location value="336"/>
+    <location value="425"/>
+    <location value="395"/>
+    <src uri="assets/image_000009_5c0bd90c2c3ec36c642178bb7143039cdb3c5ed2c36c1d550ef010a9e9796128.png"/>
+    <text>
+      <location value="243"/>
+      <location value="373"/>
+      <location value="293"/>
+      <location value="378"/>
+      Adjusting nut
+    </text>
+    <text>
+      <location value="387"/>
+      <location value="366"/>
+      <location value="424"/>
+      <location value="372"/>
+      Fixing nut
+    </text>
+  </picture>
+  <text>
+    <location value="38"/>
+    <location value="404"/>
+    <location value="475"/>
+    <location value="420"/>
+    Adjust the lower adjusting nut to drop the mat to the ground, to fix the machine position,  turn the fixing nut upwards.
+  </text>
+  <picture>
+    <location value="112"/>
+    <location value="418"/>
+    <location value="199"/>
+    <location value="472"/>
+    <caption>
+      <location value="148"/>
+      <location value="476"/>
+      <location value="173"/>
+      <location value="482"/>
+      unlock
+    </caption>
+    <src uri="assets/image_000010_9d8ea0909a97636c16faf0468ed4c4d7973501ba6829b164377da273f1f2f0fc.png"/>
+  </picture>
+  <picture>
+    <location value="294"/>
+    <location value="418"/>
+    <location value="393"/>
+    <location value="472"/>
+    <caption>
+      <location value="337"/>
+      <location value="475"/>
+      <location value="352"/>
+      <location value="481"/>
+      lock
+    </caption>
+    <src uri="assets/image_000011_f9e4d0df3a86bd010d099abdd79663f5254d24d94d50d2fd7c3479014efb12d2.png"/>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="475"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    8
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="48"/>
+    <location value="186"/>
+    <location value="55"/>
+    6.1.4  Install packing table
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="60"/>
+    <location value="278"/>
+    <location value="66"/>
+    Use the screw to fix the packing table from inside the door.
+  </text>
+  <picture>
+    <location value="128"/>
+    <location value="75"/>
+    <location value="189"/>
+    <location value="149"/>
+    <src uri="assets/image_000012_a090d147fb7abd910600ed2e971c67db9514c7edf6b87fea8c7b896717e89b68.png"/>
+  </picture>
+  <picture>
+    <location value="251"/>
+    <location value="77"/>
+    <location value="372"/>
+    <location value="143"/>
+    <src uri="assets/image_000013_29af03d2fca801ea5bb8ba6c115eefcddd5fdcccbbd99dffa02bbaf14998ae36.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="170"/>
+    <location value="300"/>
+    <location value="180"/>
+    6.2  Place materials and power on
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="194"/>
+    <location value="280"/>
+    <location value="210"/>
+    Open the machine door: Insert the key and turn clockwise, the door will open.
+  </text>
+  <heading level="2">
+    <location value="37"/>
+    <location value="237"/>
+    <location value="188"/>
+    <location value="244"/>
+    6.2.1  Place barreled water
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="250"/>
+    <location value="471"/>
+    <location value="266"/>
+    Place three barrels of water and put three water hoses into the barrels, the hose shall touch the bottom of the barrel.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="270"/>
+    <location value="468"/>
+    <location value="298"/>
+<![CDATA[l The three positions of the water supply pump switch are: 'I'- use barreled water, O- switch off, 'II'- use water purifier or external water(purchase purifier separately). When using barreled water, please press the 'I' button.]]>    
+    <ldiv/>
+    <location value="37"/>
+    <location value="302"/>
+    <location value="428"/>
+    <location value="308"/>
+    l Water consumption: the machine will use water from barrel No.1- barrel No.2- barrel No.3,
+    <ldiv/>
+    <location value="87"/>
+    <location value="320"/>
+    <location value="266"/>
+    <location value="336"/>
+    ① barreled water indicator(barrel No. 1-3 from left to right）
+  </list>
+  <text>
+    <location value="87"/>
+    <location value="342"/>
+    <location value="147"/>
+    <location value="347"/>
+    ②reset button
+  </text>
+  <text>
+    <location value="87"/>
+    <location value="352"/>
+    <location value="144"/>
+    <location value="358"/>
+    ③ pump switch
+  </text>
+  <heading level="2">
+    <location value="37"/>
+    <location value="375"/>
+    <location value="291"/>
+    <location value="383"/>
+    6.2.2  Place waste water and grounds bucket
+  </heading>
+  <text>
+    <thread thread_id="1"/>
+    <location value="57"/>
+    <location value="403"/>
+    <location value="114"/>
+    <location value="462"/>
+    ① grounds bucket ② waste water bucket ③drainage pipe
+  </text>
+  <text>
+    <thread thread_id="1"/>
+    <location value="327"/>
+    <location value="392"/>
+    <location value="397"/>
+    <location value="398"/>
+    From left to right ：
+  </text>
+  <picture>
+    <location value="129"/>
+    <location value="390"/>
+    <location value="204"/>
+    <location value="462"/>
+    <src uri="assets/image_000014_2614d76f28848296b25a8a98b0eb87d20b436d4de5fe7b0451d5c33d57f66aeb.png"/>
+    <text>
+      <location value="184"/>
+      <location value="413"/>
+      <location value="196"/>
+      <location value="419"/>
+      ➊
+    </text>
+    <text>
+      <location value="162"/>
+      <location value="444"/>
+      <location value="174"/>
+      <location value="450"/>
+      ➋
+    </text>
+    <text>
+      <location value="157"/>
+      <location value="431"/>
+      <location value="169"/>
+      <location value="438"/>
+      ➌
+    </text>
+    <text>
+      <location value="136"/>
+      <location value="416"/>
+      <location value="148"/>
+      <location value="422"/>
+      ➊
+    </text>
+  </picture>
+  <picture>
+    <location value="233"/>
+    <location value="389"/>
+    <location value="312"/>
+    <location value="462"/>
+    <src uri="assets/image_000015_46dc077e044908527433dfb64ec88a0cf2dd07d02f7624b3cf05947e4fdc4931.png"/>
+  </picture>
+  <picture>
+    <location value="299"/>
+    <location value="310"/>
+    <location value="409"/>
+    <location value="367"/>
+    <src uri="assets/image_000016_9bba9af314806a788c47a765deb6c92b6b392172c6faf5a414b6fba1a93cf2fc.png"/>
+    <text>
+      <location value="336"/>
+      <location value="341"/>
+      <location value="348"/>
+      <location value="348"/>
+      ➊
+    </text>
+    <text>
+      <location value="365"/>
+      <location value="341"/>
+      <location value="392"/>
+      <location value="348"/>
+      ➋➌
+    </text>
+  </picture>
+  <text>
+    <location value="327"/>
+    <location value="399"/>
+    <location value="408"/>
+    <location value="405"/>
+    1.Machine water tank
+  </text>
+  <text>
+    <location value="327"/>
+    <location value="406"/>
+    <location value="382"/>
+    <location value="412"/>
+    drainage valve
+  </text>
+  <text>
+    <location value="327"/>
+    <location value="414"/>
+    <location value="438"/>
+    <location value="419"/>
+    2.Ice maker waste water pipe
+  </text>
+  <text>
+    <location value="327"/>
+    <location value="421"/>
+    <location value="442"/>
+    <location value="426"/>
+    Drain outlet of stirrer drip tray
+  </text>
+  <list>
+    <ldiv/>
+    <location value="327"/>
+    <location value="428"/>
+    <location value="451"/>
+    <location value="440"/>
+    3.Ice maker water tank drainage valve
+    <ldiv/>
+    <location value="327"/>
+    <location value="442"/>
+    <location value="432"/>
+    <location value="462"/>
+    4.Water tank drainage pipe 5.Safety valve pressure releasing pipe
+  </list>
+  <picture>
+    <location value="317"/>
+    <location value="164"/>
+    <location value="404"/>
+    <location value="224"/>
+    <src uri="assets/image_000017_dcd908b60c80873a66e504d46a349ba207b9f08349b350ffd11c0f90dabeac54.png"/>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="475"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    9
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="49"/>
+    <location value="226"/>
+    <location value="58"/>
+    6.2.3  Power on the machine
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="63"/>
+    <location value="465"/>
+    <location value="80"/>
+    After finishing the above steps, turn on the machine. The main switch is at the upper right on the back of the machine.
+  </text>
+  <list class="ordered">
+    <ldiv>
+      <marker>1.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="85"/>
+    <location value="445"/>
+    <location value="101"/>
+    Connect ground wire. Do not use the machine without connecting ground. Otherwise, there will be serious safety hazards!
+    <ldiv>
+      <marker>2.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="106"/>
+    <location value="125"/>
+    <location value="112"/>
+    Connect power cord.
+    <ldiv>
+      <marker>3.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="117"/>
+    <location value="452"/>
+    <location value="133"/>
+<![CDATA[Switch on "main power", observe the screen status, after self-check, turn on "ice maker power" and 'foam machine power'.]]>    
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="138"/>
+    <location value="460"/>
+    <location value="165"/>
+    Note: 1. If the machine has tilted during transportation, please do not immediately turn on the refrigeration system. It should be steady for 24 hours before turning on the ice maker, otherwise it may damage the compressor.
+  </text>
+  <list class="ordered">
+    <ldiv>
+      <marker>2.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="170"/>
+    <location value="473"/>
+    <location value="186"/>
+    For the first time powering on the machine, the water pipeline is empty, so it may not pass the self-check, if there is a X on step 3, please restart the machine
+    <ldiv>
+      <marker>3.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="191"/>
+    <location value="356"/>
+    <location value="197"/>
+    For the first time using the ice maker, wait for 15-20mins to make ice drinks.
+  </list>
+  <picture>
+    <location value="54"/>
+    <location value="203"/>
+    <location value="437"/>
+    <location value="286"/>
+    <src uri="assets/image_000018_5a6083fad9bdddda8d9f8d6e941804a06a89ee647508acd3c46c7df36076de72.png"/>
+    <text>
+      <location value="347"/>
+      <location value="215"/>
+      <location value="404"/>
+      <location value="220"/>
+      ①main power
+    </text>
+    <list>
+      <ldiv/>
+      <location value="347"/>
+      <location value="225"/>
+      <location value="423"/>
+      <location value="231"/>
+      ②ice maker power
+    </list>
+    <text>
+      <location value="347"/>
+      <location value="236"/>
+      <location value="356"/>
+      <location value="242"/>
+      ③
+    </text>
+    <text>
+      <location value="356"/>
+      <location value="236"/>
+      <location value="394"/>
+      <location value="242"/>
+      Leakage
+    </text>
+    <text>
+      <location value="347"/>
+      <location value="247"/>
+      <location value="394"/>
+      <location value="252"/>
+      protector(
+    </text>
+    <text>
+      <location value="394"/>
+      <location value="247"/>
+      <location value="439"/>
+      <location value="253"/>
+      operate as
+    </text>
+    <text>
+      <location value="347"/>
+      <location value="258"/>
+      <location value="399"/>
+      <location value="263"/>
+      instructions)
+    </text>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="295"/>
+    <location value="169"/>
+    <location value="302"/>
+    6.2.4  Function buttons
+  </heading>
+  <list class="ordered">
+    <ldiv>
+      <marker>1.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="308"/>
+    <location value="474"/>
+    <location value="324"/>
+    When at product selection page, press machine number few times, then input 111111 on the login page to enter machine back end
+    <ldiv>
+      <marker>2.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="329"/>
+    <location value="473"/>
+    <location value="345"/>
+    Press Equipment Test, and test the buttons to check if the function is normal. Please operate under the guidance of after-sales personnel or trained professionals.
+  </list>
+  <picture>
+    <location value="47"/>
+    <location value="357"/>
+    <location value="173"/>
+    <location value="406"/>
+    <src uri="assets/image_000019_623b7a2b8e537ea3b1db801b242749712d01fade3f0d957f018a6dd5ca1eb933.png"/>
+  </picture>
+  <picture>
+    <location value="195"/>
+    <location value="356"/>
+    <location value="320"/>
+    <location value="406"/>
+    <src uri="assets/image_000020_00aedff19e39ac994c6ce2210b353bfd29fce32c14692cda4e1fd56964ec9176.png"/>
+  </picture>
+  <picture>
+    <location value="343"/>
+    <location value="357"/>
+    <location value="468"/>
+    <location value="404"/>
+    <src uri="assets/image_000021_6fb8dd0e2d90b0d51e63026c4c3025663edc5b5918694dc2ba860385f22020cd.png"/>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    10
+  </page_footer>
+  <page_break/>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    11
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="44"/>
+    <location value="180"/>
+    <location value="54"/>
+    7.1  Place material
+  </heading>
+  <heading level="2">
+    <location value="38"/>
+    <location value="62"/>
+    <location value="280"/>
+    <location value="70"/>
+    7.1.1  Place coffee bean hopper and beans
+  </heading>
+  <list class="ordered">
+    <ldiv>
+      <marker>1.</marker>
+    </ldiv>
+    <location value="38"/>
+    <location value="75"/>
+    <location value="340"/>
+    <location value="81"/>
+    Open coffee bean hopper cover, pour coffee beans and place the cover.
+    <ldiv>
+      <marker>2.</marker>
+    </ldiv>
+    <location value="38"/>
+    <location value="86"/>
+    <location value="469"/>
+    <location value="102"/>
+    <content> Insert the coffee bean hopper as shown below, flip up the transparent knob on the side of the hopper, the beans will drop.</content>
+  </list>
+  <picture>
+    <location value="117"/>
+    <location value="106"/>
+    <location value="184"/>
+    <location value="181"/>
+    <src uri="assets/image_000022_34adabfbbd681f109ca2f597267d22b862bfb00ac704ec1df160cf328521a2fd.png"/>
+  </picture>
+  <picture>
+    <location value="282"/>
+    <location value="108"/>
+    <location value="351"/>
+    <location value="171"/>
+    <src uri="assets/image_000023_4a3bd8449c093ea4e4300ffed25efd6a87d0ff903f288a70d85f9b8e8ece12f7.png"/>
+  </picture>
+  <text>
+    <location value="253"/>
+    <location value="175"/>
+    <location value="403"/>
+    <location value="187"/>
+    Do not insert your hand into the grinder when power on the machine!
+  </text>
+  <picture>
+    <location value="227"/>
+    <location value="172"/>
+    <location value="245"/>
+    <location value="182"/>
+    <src uri="assets/image_000024_59a32382c650f9a22b79adba76ae5af98cf73c2174901534c9a4a25cf5056558.png"/>
+    <text>
+      <location value="235"/>
+      <location value="176"/>
+      <location value="238"/>
+      <location value="183"/>
+      !
+    </text>
+  </picture>
+  <heading level="2">
+    <location value="38"/>
+    <location value="198"/>
+    <location value="289"/>
+    <location value="206"/>
+    7.1.2 Place powder material and tea powder
+  </heading>
+  <text>
+    <location value="38"/>
+    <location value="211"/>
+    <location value="340"/>
+    <location value="217"/>
+    Turn the nozzle upwards, open the cover and pour material or tea powder
+  </text>
+  <text>
+    <location value="38"/>
+    <location value="222"/>
+    <location value="461"/>
+    <location value="238"/>
+    The default recipe order from left to right is: 1.Milk powder 2.vanilla 3.coco powder 4.matcha 5.Jasmine tea powder 6.Black tea powder。
+  </text>
+  <text>
+    <location value="38"/>
+    <location value="243"/>
+    <location value="244"/>
+    <location value="249"/>
+    Note：1. Do not push powder material by hand.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="38"/>
+    <location value="254"/>
+    <location value="473"/>
+    <location value="270"/>
+    2.The nozzle of the canister is empty when first using the machine, so the taste of the first drink will be deviated. Please discharge the first drink before the official operation
+    <ldiv>
+      <marker>3.</marker>
+    </ldiv>
+    <location value="38"/>
+    <location value="275"/>
+    <location value="289"/>
+    <location value="280"/>
+    pay attention to the shelf life when filling the material.
+  </list>
+  <picture>
+    <location value="196"/>
+    <location value="286"/>
+    <location value="278"/>
+    <location value="359"/>
+    <caption>
+      <location value="282"/>
+      <location value="297"/>
+      <location value="399"/>
+      <location value="303"/>
+      lift and open the canister cover
+    </caption>
+    <src uri="assets/image_000025_18e9a82deac1e194ac1001182e82ad4880fd14a97eb6560a3b289ee4b83674e2.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="367"/>
+    <location value="135"/>
+    <location value="373"/>
+    7.1.3  Place canisters
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="378"/>
+    <location value="472"/>
+    <location value="405"/>
+    l Connect the transmission mechanism at the back of the canister with the powder pushing shaft, then clip the convex part at the bottom of the canister down into hole on the baffle plate, and tilt the nozzle to the mixer.
+    <ldiv/>
+    <location value="37"/>
+    <location value="410"/>
+    <location value="405"/>
+    <location value="416"/>
+    l Canister order: powder canister 1-4 from left to right, tea canister 1-2 from left to right.
+  </list>
+  <picture>
+    <location value="29"/>
+    <location value="419"/>
+    <location value="476"/>
+    <location value="466"/>
+    <src uri="assets/image_000026_3a3a615aaea347c864b0b1a8689b520dea9de10e12672d7f167e0f0a8a2e385c.png"/>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    12
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="48"/>
+    <location value="133"/>
+    <location value="55"/>
+    7.1.4 Place syrup
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="60"/>
+    <location value="473"/>
+    <location value="88"/>
+    l Bottled syrup: Unscrew the bottle cap, cover with the special cap alongside with the machine and insert the corresponding pump inlet pipe into the bottle. Go to machine back end and press the test button to pump the syrup to the dispenser.
+    <ldiv/>
+    <location value="37"/>
+    <location value="92"/>
+    <location value="467"/>
+    <location value="109"/>
+    l BIB syrup: Open the bib cap and connect with bib connector, then connect the pump inlet tube to the connector. Go to machine back end and press the test button to pump the syrup to the dispenser.
+    <ldiv/>
+    <location value="37"/>
+    <location value="113"/>
+    <location value="256"/>
+    <location value="120"/>
+    l Liquid material order: No.1-No.6 from lest to right.
+    <ldiv/>
+    <location value="37"/>
+    <location value="124"/>
+    <location value="424"/>
+    <location value="130"/>
+    l The default material order is: 1.litchi 2. orange 3. peach 4. kumquat lemon 5.sugar 6.pomelo
+  </list>
+  <heading level="2">
+    <location value="37"/>
+    <location value="135"/>
+    <location value="188"/>
+    <location value="141"/>
+    Note: Pay attention to the shelf life
+  </heading>
+  <picture>
+    <location value="90"/>
+    <location value="145"/>
+    <location value="156"/>
+    <location value="205"/>
+    <caption>
+      <location value="98"/>
+      <location value="213"/>
+      <location value="148"/>
+      <location value="219"/>
+      bottle syrup
+    </caption>
+    <src uri="assets/image_000027_0c335ec337a89ec05603d78b8ac634e5c489f7b8be91be39a5dce74c2e2cc3e0.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="228"/>
+    <location value="124"/>
+    <location value="235"/>
+    7.1.5  Place cups
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="240"/>
+    <location value="468"/>
+    <location value="257"/>
+    There are 2 cup droppers on the machine door, place paper cups in the left and plastic cups in the right， place the cup upwards.
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="262"/>
+    <location value="457"/>
+    <location value="278"/>
+    The cup tube will switch to next one when the current tube is empty. When the 2 tubes are empty, the machine will suspend selling until refilling cups.
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="283"/>
+    <location value="453"/>
+    <location value="299"/>
+    Note: 1. Before placing, ensure that the cup pile is loose, and do not press the cup pile, the cups should be free of damage and deformation.
+  </text>
+  <list class="ordered">
+    <ldiv>
+      <marker>2.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="304"/>
+    <location value="471"/>
+    <location value="320"/>
+    The filling height shall not be lower than the height marked on the cup tube, so as to prevent the failure caused by insufficient paper cups.
+    <ldiv>
+      <marker>3.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="326"/>
+    <location value="449"/>
+    <location value="331"/>
+    The cups shall be lower than the height of the cup tube and higher than the line on the tube.
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="363"/>
+    <location value="64"/>
+    <location value="376"/>
+    paper cup
+  </text>
+  <picture>
+    <location value="73"/>
+    <location value="336"/>
+    <location value="176"/>
+    <location value="396"/>
+    <src uri="assets/image_000028_62c4443e22d6a75e9d83de065177fe857790b4c17426ec773eb11f26755c0151.png"/>
+    <text>
+      <location value="149"/>
+      <location value="363"/>
+      <location value="178"/>
+      <location value="369"/>
+      plastic
+    </text>
+    <text>
+      <location value="149"/>
+      <location value="370"/>
+      <location value="165"/>
+      <location value="376"/>
+      cup
+    </text>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="417"/>
+    <location value="176"/>
+    <location value="427"/>
+    7.1.6  Place straws
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="432"/>
+    <location value="278"/>
+    <location value="438"/>
+    l enter the backend system, the compartment will unlock.
+    <ldiv/>
+    <location value="37"/>
+    <location value="442"/>
+    <location value="342"/>
+    <location value="459"/>
+    l There are 2 compartments, pull to open, iced drink straws in left, stirrer in right.
+  </list>
+  <picture>
+    <location value="206"/>
+    <location value="336"/>
+    <location value="294"/>
+    <location value="396"/>
+    <src uri="assets/image_000029_c12c6f821931673a3ededa3c9938f026837ffe905e9e9fa5bb4165eb181dcdfb.png"/>
+  </picture>
+  <picture>
+    <location value="346"/>
+    <location value="338"/>
+    <location value="431"/>
+    <location value="383"/>
+    <src uri="assets/image_000030_34b2ce3e96b09d37a627c9d567e840c4ed2495dd6b27715c294045eca2763a33.png"/>
+  </picture>
+  <text>
+    <location value="325"/>
+    <location value="388"/>
+    <location value="470"/>
+    <location value="401"/>
+    Do not put your hand into the cup dropper when power on the machine! !
+  </text>
+  <picture>
+    <location value="354"/>
+    <location value="413"/>
+    <location value="457"/>
+    <location value="466"/>
+    <src uri="assets/image_000031_6754e47e76bfe63b894b91cca06968715a916c1d591f97138995f7974f7beccf.png"/>
+  </picture>
+  <picture>
+    <location value="199"/>
+    <location value="145"/>
+    <location value="264"/>
+    <location value="206"/>
+    <src uri="assets/image_000032_6a68766a770730b8eca0577ebfb4b59c5928f521ecb6dc2b90afc989cb8147a6.png"/>
+  </picture>
+  <text>
+    <location value="228"/>
+    <location value="213"/>
+    <location value="241"/>
+    <location value="219"/>
+    BIB
+  </text>
+  <picture>
+    <location value="304"/>
+    <location value="152"/>
+    <location value="433"/>
+    <location value="200"/>
+    <src uri="assets/image_000033_b8f6836ba29919a4ceafb4e75daac5394d12ca095dde9e4de958c243fa176b51.png"/>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    13
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="47"/>
+    <location value="124"/>
+    <location value="55"/>
+    7.1.7  Place lids
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="60"/>
+    <location value="306"/>
+    <location value="66"/>
+    There are 2 lifting modules in both sides of the door, pull to open:
+  </text>
+  <list class="ordered">
+    <ldiv>
+      <marker>1.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="71"/>
+    <location value="177"/>
+    <location value="76"/>
+    hold the module and lift lever 1.
+    <ldiv>
+      <marker>2.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="81"/>
+    <location value="266"/>
+    <location value="87"/>
+    Pull down lever 2 and drop the module to the bottom
+    <ldiv>
+      <marker>3.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="92"/>
+    <location value="311"/>
+    <location value="98"/>
+    pace lids, hot lids on left, iced lids on right, put the lids upwards.
+    <ldiv>
+      <marker>4.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="103"/>
+    <location value="89"/>
+    <location value="108"/>
+    lift lever 2.
+    <ldiv>
+      <marker>5.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="113"/>
+    <location value="272"/>
+    <location value="119"/>
+    The module will rise automatically to the right position.
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="124"/>
+    <location value="237"/>
+    <location value="130"/>
+    Note: do not touch the module when its moving!
+  </text>
+  <picture>
+    <location value="91"/>
+    <location value="144"/>
+    <location value="240"/>
+    <location value="222"/>
+    <src uri="assets/image_000034_7615596ca9e02ba4ec7e9cc8eb7d290b40d486601cf1e2e2855191669294dab3.png"/>
+  </picture>
+  <heading level="2">
+    <location value="36"/>
+    <location value="245"/>
+    <location value="165"/>
+    <location value="255"/>
+    7.2  Product test
+  </heading>
+  <text>
+    <location value="36"/>
+    <location value="264"/>
+    <location value="402"/>
+    <location value="269"/>
+    Enter machine back end, press product test and make a drink to see if the drink is normal.
+  </text>
+  <heading level="2">
+    <location value="36"/>
+    <location value="284"/>
+    <location value="168"/>
+    <location value="294"/>
+    7.3 Adjust recipe
+  </heading>
+  <text>
+    <location value="36"/>
+    <location value="303"/>
+    <location value="474"/>
+    <location value="319"/>
+    Machine end: enter Machine back end tap       icon in recipe management to modify product materials. the value should be integer and can not add new material. Further modification need to be done on PC end.
+  </text>
+  <picture>
+    <location value="80"/>
+    <location value="331"/>
+    <location value="400"/>
+    <location value="431"/>
+    <src uri="assets/image_000035_656ddb86ed98a0cabb70a4cb79f7f70dcbd4b4384ef9700f158d5a0cb518cb15.png"/>
+  </picture>
+  <picture>
+    <location value="290"/>
+    <location value="124"/>
+    <location value="376"/>
+    <location value="229"/>
+    <caption>
+      <location value="348"/>
+      <location value="233"/>
+      <location value="378"/>
+      <location value="239"/>
+      Lever 2
+    </caption>
+    <src uri="assets/image_000036_a836f8ff55df0d1f261ea15dc714fc34406e7a218f2d0d41bf6216a62755824c.png"/>
+    <text>
+      <location value="348"/>
+      <location value="125"/>
+      <location value="377"/>
+      <location value="131"/>
+      Lever 1
+    </text>
+    <text>
+      <location value="303"/>
+      <location value="209"/>
+      <location value="328"/>
+      <location value="214"/>
+      Lifting
+    </text>
+    <text>
+      <location value="301"/>
+      <location value="216"/>
+      <location value="329"/>
+      <location value="221"/>
+      module
+    </text>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="467"/>
+    <location value="479"/>
+    <location value="472"/>
+    14
+  </page_footer>
+  <page_break/>
+  <text>
+    <location value="36"/>
+    <location value="47"/>
+    <location value="471"/>
+    <location value="63"/>
+<![CDATA[PC back end：1. Login operator account, machine management, machine list, view, product management, click edit on the right then click 'next'.]]>  </text>
+  <list>
+    <ldiv/>
+    <location value="36"/>
+    <location value="68"/>
+    <location value="474"/>
+    <location value="84"/>
+<![CDATA[2 . Login operator account, recipe management, recipe management, view, then click 'view'on the right. 3. Login operator account, sales management, product management, view and click 'edit'and 'next'.]]>    
+    <ldiv/>
+    <location value="36"/>
+    <location value="89"/>
+    <location value="182"/>
+    <location value="95"/>
+    All 3 methods can adjust the recipe.
+  </list>
+  <picture>
+    <location value="87"/>
+    <location value="99"/>
+    <location value="421"/>
+    <location value="276"/>
+    <src uri="assets/image_000037_bcbf2d64fadf4cd2126be059df41f01a6dfae757fb9877c8f63edcb95d00b1f9.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="288"/>
+    <location value="177"/>
+    <location value="295"/>
+    7.3.1 Adjusting methods
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="299"/>
+    <location value="445"/>
+    <location value="306"/>
+    l When setting up coffee drinks for the double-brewer machines, choose which brewer to use first.
+    <ldiv/>
+    <location value="37"/>
+    <location value="310"/>
+    <location value="484"/>
+    <location value="327"/>
+<![CDATA[l Coffee extraction volume(ml), grinding amount(g), carbonated water amount(s), ice dispensing amount(g) are necessary, set to '0'for the drinks that do not contain above materials.]]>    
+    <ldiv/>
+    <location value="37"/>
+    <location value="331"/>
+    <location value="475"/>
+    <location value="348"/>
+    l Double shot(for certain models): After enabled, the coffee extraction process will run twice according to the values of coffee extraction volume and grinding amount in the recipe.
+    <ldiv/>
+    <location value="37"/>
+    <location value="353"/>
+    <location value="476"/>
+    <location value="370"/>
+    l Secondary ice dispensing (for certain models): After setting the ice amount, the ice will be released after the powder and liquid materials are dispensed.
+    <ldiv/>
+    <location value="37"/>
+    <location value="374"/>
+    <location value="472"/>
+    <location value="380"/>
+    l Coffee extraction settings, tea extraction settings (for certain models): adjustable extraction parameters.
+    <ldiv/>
+    <location value="37"/>
+    <location value="385"/>
+    <location value="464"/>
+    <location value="402"/>
+<![CDATA[l Add other required materials: click "Add" - select materials - set water and material amount, for fresh milk, select fresh milk/foam - select cold/hot water - save.]]>    
+    <ldiv/>
+    <location value="37"/>
+    <location value="406"/>
+    <location value="466"/>
+    <location value="433"/>
+    l The water and material dispensing volume of powder, liquid materials and fresh milk are measured in seconds, the material dispensing of tea is measured in grams, and the water of tea is measured in milliliters;
+    <ldiv/>
+    <location value="37"/>
+    <location value="438"/>
+    <location value="264"/>
+    <location value="455"/>
+    l The added materials can be edited or deleted in the operation bar on the right side of the list.
+    <ldiv/>
+    <location value="37"/>
+    <location value="459"/>
+    <location value="299"/>
+    <location value="476"/>
+    l The water temperature is set on the machine manager page, with options ranging from 88 ℃ to 96 ℃.
+  </list>
+  <picture>
+    <location value="298"/>
+    <location value="431"/>
+    <location value="471"/>
+    <location value="480"/>
+    <src uri="assets/image_000038_b08f297ee1d4ce27ac7cf38b97327b2d1e978b5ffc579d1fd89ef2ef6eee9537.png"/>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    15
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="43"/>
+    <location value="204"/>
+    <location value="51"/>
+    7.3.2 Notes on setting recipes
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="56"/>
+    <location value="187"/>
+    <location value="61"/>
+    1. Water and material dispensing amount
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="64"/>
+    <location value="446"/>
+    <location value="89"/>
+    l For 2 canisters that use the same mixer: the actual water dispensing time shall be the longer one set for the canister. The material dispensing time comply to the recipe settings respectively. Powder material maximum dispensing volume ＝Mixer maximum water dispensing volume - 2s
+    <ldiv/>
+    <location value="37"/>
+    <location value="93"/>
+    <location value="431"/>
+    <location value="99"/>
+    l For 2 canisters that use different mixer: the water and material dispensing time comply with the recipes.
+    <ldiv/>
+    <location value="37"/>
+    <location value="102"/>
+    <location value="472"/>
+    <location value="127"/>
+    l When setting powder materials, water dispensing volume should be at lease 2 second more than material volume , and you can dispense water without material. When setting liquid material, you can only dispense water or only dispense liquid material. When only dispensing liquid material, connect the tube to the dispenser.
+  </list>
+  <picture>
+    <location value="186"/>
+    <location value="135"/>
+    <location value="280"/>
+    <location value="183"/>
+    <src uri="assets/image_000039_7275d04b3b30fba67ef005ccb724a6e40c73e094b835335d03bd5e377b6cdda4.png"/>
+  </picture>
+  <text>
+    <location value="37"/>
+    <location value="185"/>
+    <location value="132"/>
+    <location value="191"/>
+    2. Hot and cold water settings
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="194"/>
+    <location value="433"/>
+    <location value="198"/>
+    l All mixers can dispense hot and cold water, hot water is recommended for powder material to dissolve properly and prevent mixer jamming.
+    <ldiv/>
+    <location value="37"/>
+    <location value="201"/>
+    <location value="467"/>
+    <location value="212"/>
+    l For 2 materials that using the same mixer, if you set cold water for both material, cold water will be dispensed, if you set hot water for both material, hot water will be dispensed, if you set cold water for one material, hot water for the other, the mixer will still dispense hot water.
+    <ldiv/>
+    <location value="37"/>
+    <location value="215"/>
+    <location value="134"/>
+    <location value="219"/>
+    l Only hot water for tea product.
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="223"/>
+    <location value="108"/>
+    <location value="227"/>
+    3. Soda drinks settings
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="231"/>
+    <location value="195"/>
+    <location value="236"/>
+    l Pump 7-10 can be dispensed with soda water.
+    <ldiv/>
+    <location value="37"/>
+    <location value="239"/>
+    <location value="465"/>
+    <location value="244"/>
+    l For pump 1-6 can be dispensed with soda if only dispensing syrup. When dispensing syrup and water, soda will be dispensed after.
+    <ldiv/>
+    <location value="37"/>
+    <location value="247"/>
+    <location value="353"/>
+    <location value="252"/>
+    l For materials using same mixer, if water is set, material will be dispensing with water, then soda.
+  </list>
+  <heading level="2">
+    <location value="37"/>
+    <location value="265"/>
+    <location value="94"/>
+    <location value="272"/>
+    7.3.3 SMB
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="277"/>
+    <location value="474"/>
+    <location value="310"/>
+    SMB is a system used to control the coffee extraction process, and its parameters can be set through the machine backend and the PC end. By changing its parameters, the flow rate and pressure during coffee extraction can be adjusted, thereby affecting the flavor, acidity, oil content, and extraction rate of coffee concentrate. The system contains 6 variables (as shown in the figure below)
+  </text>
+  <picture>
+    <location value="31"/>
+    <location value="320"/>
+    <location value="278"/>
+    <location value="476"/>
+    <src uri="assets/image_000040_49c456a809cfe0e03c1f97eec404efe8ef7961d445d3e28f31178c1369c1998f.png"/>
+    <heading level="2">
+      <location value="190"/>
+      <location value="322"/>
+      <location value="247"/>
+      <location value="328"/>
+      Grinding level
+    </heading>
+    <text>
+      <location value="42"/>
+      <location value="357"/>
+      <location value="114"/>
+      <location value="362"/>
+      Adjust on grinder
+    </text>
+    <text>
+      <location value="40"/>
+      <location value="432"/>
+      <location value="120"/>
+      <location value="448"/>
+      Adjust on machine or PC backend
+    </text>
+  </picture>
+  <text>
+    <location value="293"/>
+    <location value="319"/>
+    <location value="454"/>
+    <location value="384"/>
+    Adjust the grinding bean thickness by turning the grinding level knob. The smaller the value, the finer the grinding beans (Default setting  particle diameter 0.35mm)
+  </text>
+  <text>
+    <location value="295"/>
+    <location value="406"/>
+    <location value="452"/>
+    <location value="422"/>
+    Coffee bean amount (set by operator, default is 18）
+  </text>
+  <text>
+    <location value="320"/>
+    <location value="459"/>
+    <location value="424"/>
+    <location value="464"/>
+    coffee extraction amount
+  </text>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    16
+  </page_footer>
+  <page_break/>
+  <picture>
+    <location value="31"/>
+    <location value="16"/>
+    <location value="160"/>
+    <location value="30"/>
+    <src uri="assets/image_000041_b9c1c40f445fbc5b7ed7e09b90cecf4dc5137eef396e36d4028e95f5c2f2a142.png"/>
+  </picture>
+  <picture>
+    <location value="43"/>
+    <location value="45"/>
+    <location value="281"/>
+    <location value="161"/>
+    <src uri="assets/image_000042_d6934f1ca755ffcb00a3a119d39174caac9e2d0654d770e76d17ea61c76322fd.png"/>
+    <text>
+      <location value="53"/>
+      <location value="100"/>
+      <location value="133"/>
+      <location value="116"/>
+      Adjust on machine or PC backend
+    </text>
+  </picture>
+  <heading level="2">
+    <location value="331"/>
+    <location value="53"/>
+    <location value="437"/>
+    <location value="69"/>
+    Coffee cake pressing level （default is 8 or 9）
+  </heading>
+  <text>
+    <location value="303"/>
+    <location value="93"/>
+    <location value="468"/>
+    <location value="117"/>
+    Upper pressure limit during coffee extraction (default is 8 or 9）Higher pressure can make the concentrated liquid more rich in oil
+  </text>
+  <text>
+    <location value="307"/>
+    <location value="135"/>
+    <location value="462"/>
+    <location value="159"/>
+    Upper limit of flow rate during coffee extraction (default is 5 or 6）A lower flow rate can improve the coffee extraction rate
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="171"/>
+    <location value="475"/>
+    <location value="200"/>
+    The standard values for coffee extraction flow rate and extraction pressure that we usually recommend are: 18 grams of coffee powder, at a pressure of 9 bar, for about 30 seconds, to extract 60ml of concentrated solution (which is more balanced in terms of extraction rate, oil, and production time). However, due to differences in coffee bean variety, roasting degree, taste requirements, etc., it is necessary to adjust the SMB parameters to achieve perfect extraction effect.
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="205"/>
+    <location value="432"/>
+    <location value="210"/>
+    During making a coffee, the 2 numbers on the machine screen indicating time and pressure from left to right
+  </text>
+  <heading level="2">
+    <location value="37"/>
+    <location value="217"/>
+    <location value="143"/>
+    <location value="225"/>
+    7.3.4 SMB settings
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="229"/>
+    <location value="473"/>
+    <location value="250"/>
+    Case 1: When the coffee liquid has less oil, light color, sour taste, and low-pressure value displayed on the screen, it indicates that the coffee has not been fully extracted and the extraction rate needs to be increased. One or more of the following can be adjusted to obtain coffee with richer oil.
+  </text>
+  <picture>
+    <location value="51"/>
+    <location value="251"/>
+    <location value="158"/>
+    <location value="316"/>
+    <src uri="assets/image_000043_3c731721795f907c93aab4feafb16b7e0bdb5906204b7577f4bc296b534ab020.png"/>
+    <text>
+      <location value="66"/>
+      <location value="308"/>
+      <location value="144"/>
+      <location value="314"/>
+      finer grinding level
+    </text>
+  </picture>
+  <picture>
+    <location value="201"/>
+    <location value="257"/>
+    <location value="297"/>
+    <location value="290"/>
+    <src uri="assets/image_000044_722f5fa74b160f05f6fe0e5b9acfcb94a2d651d095349813960c984eb9e793ab.png"/>
+  </picture>
+  <text>
+    <location value="197"/>
+    <location value="308"/>
+    <location value="304"/>
+    <location value="314"/>
+    increase pressing pressure
+  </text>
+  <picture>
+    <location value="342"/>
+    <location value="258"/>
+    <location value="447"/>
+    <location value="315"/>
+    <src uri="assets/image_000045_9e9abd1dee1104069d8a4586c2d8f09ea33a593332aee4dc01075604745fe78e.png"/>
+    <text>
+      <location value="359"/>
+      <location value="302"/>
+      <location value="432"/>
+      <location value="314"/>
+      increase grinding amount
+    </text>
+  </picture>
+  <text>
+    <location value="37"/>
+    <location value="321"/>
+    <location value="454"/>
+    <location value="342"/>
+    Case 2: When the coffee liquid has too much oil, dark color, bitter taste, long extraction time, or even reports a flow failure state, it indicates that the coffee has been over extracted and the extraction rate needs to be reduced. One or more of the following can be adjusted to obtain coffee with a more balanced flavor.
+  </text>
+  <picture>
+    <location value="51"/>
+    <location value="343"/>
+    <location value="157"/>
+    <location value="408"/>
+    <src uri="assets/image_000046_9e11d34ab649a647498467fda7d397341bbdffb8527ae77caca2ebde10fd1e10.png"/>
+    <text>
+      <location value="63"/>
+      <location value="400"/>
+      <location value="148"/>
+      <location value="406"/>
+      bigger grinding level
+    </text>
+  </picture>
+  <picture>
+    <location value="201"/>
+    <location value="353"/>
+    <location value="297"/>
+    <location value="385"/>
+    <src uri="assets/image_000047_97fe57e5afa90bf2a40f01e0dedfac4e97b93b96c73716d24172a20922198ea7.png"/>
+  </picture>
+  <text>
+    <location value="196"/>
+    <location value="399"/>
+    <location value="308"/>
+    <location value="404"/>
+    decrease pressing pressure
+  </text>
+  <picture>
+    <location value="335"/>
+    <location value="352"/>
+    <location value="453"/>
+    <location value="410"/>
+    <src uri="assets/image_000048_f2ddfce3c80f08bd55654b927ad0371f51bd4b410364ca45de0cbd263212b274.png"/>
+    <text>
+      <location value="358"/>
+      <location value="396"/>
+      <location value="433"/>
+      <location value="408"/>
+      decrease grinding amount
+    </text>
+  </picture>
+  <text>
+    <location value="37"/>
+    <location value="413"/>
+    <location value="474"/>
+    <location value="426"/>
+    Case 3: When the extraction flow rate and extraction pressure are appropriate, the flavor of coffee can also be influenced by changing the amount of extraction solution.
+  </text>
+  <picture>
+    <location value="53"/>
+    <location value="435"/>
+    <location value="158"/>
+    <location value="463"/>
+    <src uri="assets/image_000049_d59dcbc772d1c8bba65d268704b7158a6f212977d202d3de99d1ee2da462894f.png"/>
+  </picture>
+  <picture>
+    <location value="187"/>
+    <location value="422"/>
+    <location value="429"/>
+    <location value="469"/>
+    <src uri="assets/image_000050_7dc66acb87832fa1e5cc6ba6539d0edd3af455c0cce6bb0e640170aeb44e0d82.png"/>
+    <text>
+      <location value="195"/>
+      <location value="429"/>
+      <location value="265"/>
+      <location value="434"/>
+      18g coffee beans for example:
+    </text>
+    <text>
+      <location value="195"/>
+      <location value="437"/>
+      <location value="423"/>
+      <location value="452"/>
+      50-60ml of concentrated solution is extracted, at which point the flavor is more balanced. When it is less than 40ml, the concentration of coffee is higher, there is more oil, and the acidity will increase.
+    </text>
+    <text>
+      <location value="195"/>
+      <location value="455"/>
+      <location value="410"/>
+      <location value="464"/>
+      When it exceeds 60ml, the concentration of coffee decreases, acidity decreases, and bitterness increases.
+    </text>
+  </picture>
+  <text>
+    <location value="37"/>
+    <location value="478"/>
+    <location value="453"/>
+    <location value="489"/>
+    Tip: If you want to change the parameters, it needs to be operated by an experienced barista. While observing the extraction pressure and flow rate, taste the flavor of the coffee liquid to ultimately achieve the desired taste.
+  </text>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    17
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="49"/>
+    <location value="194"/>
+    <location value="59"/>
+    7.4 Product settings
+  </heading>
+  <heading level="2">
+    <location value="37"/>
+    <location value="68"/>
+    <location value="189"/>
+    <location value="78"/>
+    7.4.1  Material names
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="83"/>
+    <location value="366"/>
+    <location value="95"/>
+    On PC back end：Machine management--Machine list--View--Channel management：click edit To set materials.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="98"/>
+    <location value="267"/>
+    <location value="104"/>
+    l Cup lid, paper cup and plastic cup are fixed and can not be changed.
+    <ldiv/>
+    <location value="37"/>
+    <location value="107"/>
+    <location value="389"/>
+    <location value="112"/>
+    l Multiple languages for material names, complying with the language selected on the machine main screen.
+    <ldiv/>
+    <location value="37"/>
+    <location value="115"/>
+    <location value="471"/>
+    <location value="128"/>
+<![CDATA[l The DIY of sugar involves the display of none sugar on the screen and deduction of inventory, and the system determines whether it contains the word "sugar", so the name of sugar materials needs to have the word "sugar'.]]>    
+    <ldiv/>
+    <location value="37"/>
+    <location value="132"/>
+    <location value="467"/>
+    <location value="145"/>
+<![CDATA[l Calibration value: 'g/10s' or 'ml/10s' means how many grams(of powder/liquid) will be dispensed every 10 seconds, the value need to be tested manually.]]>    
+    <ldiv/>
+    <location value="37"/>
+    <location value="148"/>
+    <location value="472"/>
+    <location value="170"/>
+    l Alert value: when the material value≤ alert value，there will be a notice on the Machine in the shortage of material on the main page and machine management-machine log information-Machine in the shortage of material，drinks containing this material is able to be produced.
+    <ldiv/>
+    <location value="37"/>
+    <location value="173"/>
+    <location value="475"/>
+    <location value="194"/>
+    l Sold out value: when the material value≤ sold out value, there will be a notice on the machine in the shortage of material on the main page and machine management-machine log information-machine in the shortage of material，there will be a sold-out icon on the drink icon containing the material, indicating the drink is unable to be produced.
+    <ldiv/>
+    <location value="37"/>
+    <location value="198"/>
+    <location value="459"/>
+    <location value="219"/>
+<![CDATA[l 'Refrigerator over-temperature suspended' is only for model with refrigerator .If 'Yes' is selected, when the refrigerator is over temperature, the drink using the corresponding pump will be sold out. You can set the temperature limit in the machine backend, Refrigerator temperature setting]]>    
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="223"/>
+    <location value="465"/>
+    <location value="269"/>
+<![CDATA[Refrigerator temperature setting ： only applicable to machines with refrigerator. I nput temperature value between 4℃-96℃. When 'refrigerator over-temperature suspended 'is enabled in the computer back end for the corresponding pump, and when refrigerator temperature is higher the setting temperature, the products using the corresponding pump will be sold out, if the temperature drops down under the setting value in 2 hours, the products will be available, over temperature for more than 2 hours, the product will keep sold out permanently, you need to tap "over temperature reset "to reset it.]]>  </text>
+  <picture>
+    <location value="54"/>
+    <location value="273"/>
+    <location value="252"/>
+    <location value="330"/>
+    <src uri="assets/image_000051_c8edd21b21000ce22fec2541823152cc2953b1dcbf87494b222017d311065d66.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="340"/>
+    <location value="159"/>
+    <location value="348"/>
+    7.4.2 Product category
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="353"/>
+    <location value="463"/>
+    <location value="380"/>
+    On PC backend: Machine management--Machine list--View--Product classification management You can add, edit and delete existing classifications on the right, after deleting a classification, all the products under this classification will not be showed on the machine screen.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="384"/>
+    <location value="454"/>
+    <location value="401"/>
+    l Multiple languages for classification names, complying with the language selected on the machine main screen.
+    <ldiv/>
+    <location value="37"/>
+    <location value="405"/>
+    <location value="217"/>
+    <location value="412"/>
+    l You can enable/disable the classification.
+  </list>
+  <picture>
+    <location value="103"/>
+    <location value="414"/>
+    <location value="416"/>
+    <location value="488"/>
+    <src uri="assets/image_000052_83e2a095ba2dea96da5d6dc431eb79fd12f0e9e2751ec8d03eec6047dfef33c7.png"/>
+    <text>
+      <location value="344"/>
+      <location value="469"/>
+      <location value="352"/>
+      <location value="474"/>
+      18
+    </text>
+  </picture>
+  <picture>
+    <location value="273"/>
+    <location value="274"/>
+    <location value="458"/>
+    <location value="331"/>
+    <src uri="assets/image_000053_9d3b88795ab6c085ab3efcff366657ee419c8a694532807a3fed6f226e0b9446.png"/>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    18
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="48"/>
+    <location value="182"/>
+    <location value="56"/>
+    7.4.3 Product information
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="60"/>
+    <location value="457"/>
+    <location value="77"/>
+    On PC end：1. Machine management--Machine list--View--Product management, click edit to change product names, icons, categories, sort, prices and recipes.
+  </text>
+  <list class="ordered">
+    <ldiv>
+      <marker>2.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="82"/>
+    <location value="359"/>
+    <location value="87"/>
+    Sales management--product management--view and edit.
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="92"/>
+    <location value="270"/>
+    <location value="98"/>
+    You can use the above 2 methods, and save the changes.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="102"/>
+    <location value="305"/>
+    <location value="109"/>
+    l Product numbers can only be digits, no same number allowed.
+    <ldiv/>
+    <location value="37"/>
+    <location value="113"/>
+    <location value="457"/>
+    <location value="130"/>
+    l Multiple languages for product names, complying with the language selected on the machine main screen.
+    <ldiv/>
+    <location value="37"/>
+    <location value="134"/>
+    <location value="306"/>
+    <location value="140"/>
+<![CDATA[l Click 'next' to save the information and enter the next page.]]>    
+    <ldiv/>
+    <location value="37"/>
+    <location value="145"/>
+    <location value="468"/>
+    <location value="183"/>
+<![CDATA[l Delete, hide and show single product：after clicking 'Hide' on the right panel of a product, the product will not be showed on the screen. After clicking 'Show' on the right panel of a product, the product will be showed on the screen. Click 'Delete' to delete the product. Delete, hide and show batch products：check the boxes on the left and click delete, hide and show on the right panel.]]>    
+  </list>
+  <picture>
+    <location value="50"/>
+    <location value="187"/>
+    <location value="456"/>
+    <location value="247"/>
+    <src uri="assets/image_000054_4edbc26f8b7a6c7cfa7fd741f02c466e9d8834fc0ecb900bc0d088559833939f.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="261"/>
+    <location value="134"/>
+    <location value="268"/>
+    7.4.4  DIY settings
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="273"/>
+    <location value="453"/>
+    <location value="290"/>
+    On PC end：Login operator account--Machine management--Machine list--View--Product management-click DIY to set.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="294"/>
+    <location value="443"/>
+    <location value="311"/>
+    l By default, it is disabled, after enabled, customers can adjust material dispensing volume for the corresponding product.
+    <ldiv/>
+    <location value="37"/>
+    <location value="315"/>
+    <location value="460"/>
+    <location value="332"/>
+    l Grinding amount, ice, powder and liquid materials used in the recipe are all adjustable for three and five levels.
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="337"/>
+    <location value="257"/>
+    <location value="343"/>
+    Grinding amount: 1g/level for three and five levels.
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="348"/>
+    <location value="291"/>
+    <location value="353"/>
+    Ice volume: 20g/level for three levels, 10g/level for 5 levels
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="359"/>
+    <location value="370"/>
+    <location value="364"/>
+<![CDATA[Unit for other materials is 's': 1s/level for three levels, 0.5s/level for 5 levels.]]>  </text>
+  <text>
+    <location value="37"/>
+    <location value="369"/>
+    <location value="225"/>
+    <location value="375"/>
+<![CDATA[Minimum level for sugar is '0', no sugar.]]>  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="379"/>
+    <location value="473"/>
+    <location value="396"/>
+<![CDATA[l DIY icon: For sugar material, please choose the icon "sugar". For other material, please choose from the rest.]]>    
+  </list>
+  <picture>
+    <location value="38"/>
+    <location value="401"/>
+    <location value="276"/>
+    <location value="461"/>
+    <src uri="assets/image_000055_d8696068e30ddf9148675e3176c0fc84939d3e7a654cf035ef9d34700628e41b.png"/>
+  </picture>
+  <picture>
+    <location value="305"/>
+    <location value="396"/>
+    <location value="475"/>
+    <location value="462"/>
+    <src uri="assets/image_000056_926a1d79417bf440a3b4015c3aad2720b4bcd8164bc4b5569bda1472f824e5c0.png"/>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    19
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="36"/>
+    <location value="46"/>
+    <location value="406"/>
+    <location value="56"/>
+    7.5 Recipe adjustment after changing materials
+  </heading>
+  <heading level="2">
+    <location value="36"/>
+    <location value="63"/>
+    <location value="154"/>
+    <location value="71"/>
+    7.5.1 Change recipes
+  </heading>
+  <text>
+    <location value="36"/>
+    <location value="75"/>
+    <location value="447"/>
+    <location value="90"/>
+    After changing materials, please change corresponding recipe information in Channel management and Product management, and calibrate the materials according to your needs.
+  </text>
+  <heading level="2">
+    <location value="36"/>
+    <location value="96"/>
+    <location value="168"/>
+    <location value="103"/>
+    7.5.2 Material calibration
+  </heading>
+  <text>
+    <location value="36"/>
+    <location value="107"/>
+    <location value="473"/>
+    <location value="131"/>
+    On machine back end: enter backend, tap         icon in channel management to calibrate. with a calibration value of 10 seconds for the discharge volume. The calibration value will affect the actual dispensing amount of coffee beans and tea , it will not affect other materials.
+  </text>
+  <picture>
+    <location value="189"/>
+    <location value="103"/>
+    <location value="205"/>
+    <location value="115"/>
+    <src uri="assets/image_000057_736710d778bf6556b5a6f7882ef32b586549b36003f5a6476f0ae5abf0150c87.png"/>
+  </picture>
+  <list>
+    <ldiv/>
+    <location value="36"/>
+    <location value="135"/>
+    <location value="231"/>
+    <location value="141"/>
+    l Tools: empty cup, electronic scale, measuring cup.
+    <ldiv/>
+    <location value="36"/>
+    <location value="144"/>
+    <location value="386"/>
+    <location value="169"/>
+    l Catch coffee powder: remove brewer, tare the cup and put it under coffee powder dispenser. Catch powder material: tare the cup and put it under the material dispenser to be calibrated. Catch liquid material: put the measuring cup under the liquid material to be calibrated.
+  </list>
+  <picture>
+    <location value="97"/>
+    <location value="173"/>
+    <location value="162"/>
+    <location value="233"/>
+    <src uri="assets/image_000058_be14ad1ade54c7b57c781915562971d925e8b09feb44f11ee0d3d5505894ded5.png"/>
+  </picture>
+  <text>
+    <location value="92"/>
+    <location value="239"/>
+    <location value="166"/>
+    <location value="244"/>
+    catch coffee powder
+  </text>
+  <picture>
+    <location value="149"/>
+    <location value="252"/>
+    <location value="165"/>
+    <location value="264"/>
+    <src uri="assets/image_000059_8e5d8071daf64a2e01ee5c3473f1caa24c3bb717c5f287b0fca989d96e5f54be.png"/>
+  </picture>
+  <picture>
+    <location value="344"/>
+    <location value="173"/>
+    <location value="408"/>
+    <location value="234"/>
+    <caption>
+      <location value="338"/>
+      <location value="239"/>
+      <location value="411"/>
+      <location value="244"/>
+      catch liquid material
+    </caption>
+    <src uri="assets/image_000060_190f1ce2d76971ee9fa1ce180d95f0ad364618f9887abada27e2bf1cefd882c6.png"/>
+  </picture>
+  <picture>
+    <location value="220"/>
+    <location value="173"/>
+    <location value="285"/>
+    <location value="233"/>
+    <caption>
+      <location value="213"/>
+      <location value="238"/>
+      <location value="297"/>
+      <location value="243"/>
+      catch powder material
+    </caption>
+    <src uri="assets/image_000061_078bbb43369c6cd411133b13336f98ab6bb6a1801ce9de29bfa808061f341df2.png"/>
+  </picture>
+  <list>
+    <ldiv/>
+    <location value="36"/>
+    <location value="255"/>
+    <location value="467"/>
+    <location value="272"/>
+    l Calibration method: tap        icon, the machine will dispense material for 10 seconds, weigh the value and fill in the sample value. For liquid, fill the ml value.
+  </list>
+  <text>
+    <location value="36"/>
+    <location value="278"/>
+    <location value="471"/>
+    <location value="294"/>
+    After tapping sample button, the machine will dispense material after 10 seconds, easy for single person operation
+  </text>
+  <picture>
+    <location value="104"/>
+    <location value="292"/>
+    <location value="414"/>
+    <location value="345"/>
+    <src uri="assets/image_000062_a31bb2a46d61446e60e0ebcbeb3e57caa7190607a6ac34361b031ef9c938470d.png"/>
+  </picture>
+  <heading level="2">
+    <location value="36"/>
+    <location value="352"/>
+    <location value="157"/>
+    <location value="359"/>
+    7.5.3 Remove brewer
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="36"/>
+    <location value="364"/>
+    <location value="347"/>
+    <location value="369"/>
+    u Grab the bottom of brewer, pull out and remove residue discharging cover. (Pic.1)
+    <ldiv/>
+    <location value="36"/>
+    <location value="373"/>
+    <location value="273"/>
+    <location value="379"/>
+    u Press white quick connector to unplug water inlet pipe. (Pic.2)
+    <ldiv/>
+    <location value="36"/>
+    <location value="382"/>
+    <location value="204"/>
+    <location value="388"/>
+    u Unplug the black coffee outlet pipe. (Pic.3)
+    <ldiv/>
+    <location value="36"/>
+    <location value="392"/>
+    <location value="343"/>
+    <location value="398"/>
+    u Flap the latch on the bottom of the brewer, lift up to remove the brewer. (Pic.4,5)
+  </list>
+  <picture>
+    <location value="38"/>
+    <location value="402"/>
+    <location value="103"/>
+    <location value="462"/>
+    <src uri="assets/image_000063_cc84118e1f6a181854c906c407714128578e7b38a36b3386c0e20c4c95374a90.png"/>
+  </picture>
+  <text>
+    <location value="65"/>
+    <location value="471"/>
+    <location value="82"/>
+    <location value="476"/>
+    Pic1
+  </text>
+  <picture>
+    <location value="122"/>
+    <location value="402"/>
+    <location value="186"/>
+    <location value="461"/>
+    <src uri="assets/image_000064_bfa51e4736e9c7d9fb480bbca1918fc143a14e9454f14541548ae0e3d2496db3.png"/>
+  </picture>
+  <text>
+    <location value="149"/>
+    <location value="471"/>
+    <location value="166"/>
+    <location value="476"/>
+    Pic2
+  </text>
+  <picture>
+    <location value="206"/>
+    <location value="401"/>
+    <location value="269"/>
+    <location value="461"/>
+    <src uri="assets/image_000065_7664c3146b1b6773d101cf2a0b496c8120908085a5d861226b4966a2b21d26fd.png"/>
+  </picture>
+  <text>
+    <location value="232"/>
+    <location value="470"/>
+    <location value="249"/>
+    <location value="476"/>
+    Pic3
+  </text>
+  <picture>
+    <location value="285"/>
+    <location value="409"/>
+    <location value="380"/>
+    <location value="460"/>
+    <caption>
+      <location value="326"/>
+      <location value="470"/>
+      <location value="343"/>
+      <location value="476"/>
+      Pic4
+    </caption>
+    <src uri="assets/image_000066_d06bb549b88d47837dbe04c4402b93c8a691a497a3d4a2f84af9e014aaaf0c60.png"/>
+  </picture>
+  <picture>
+    <location value="392"/>
+    <location value="401"/>
+    <location value="465"/>
+    <location value="462"/>
+    <caption>
+      <location value="419"/>
+      <location value="470"/>
+      <location value="436"/>
+      <location value="476"/>
+      Pic5
+    </caption>
+    <src uri="assets/image_000067_5fba31b6c288440efeaca0327781b33a207a7573797e7b3336100761c63754e0.png"/>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    20
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="45"/>
+    <location value="180"/>
+    <location value="55"/>
+    7.6 Selection page
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="62"/>
+    <location value="362"/>
+    <location value="68"/>
+    After power on the machine and self check, you will see main screen as below.
+  </text>
+  <picture>
+    <location value="65"/>
+    <location value="71"/>
+    <location value="425"/>
+    <location value="184"/>
+    <src uri="assets/image_000068_94e7aff5995b34363b896e3d76c72b2071eb2ec482abe5990c1d825786172e70.png"/>
+    <text>
+      <location value="119"/>
+      <location value="174"/>
+      <location value="168"/>
+      <location value="180"/>
+      category on
+    </text>
+    <text>
+      <location value="332"/>
+      <location value="174"/>
+      <location value="381"/>
+      <location value="180"/>
+      category off
+    </text>
+    <text>
+      <location value="109"/>
+      <location value="154"/>
+      <location value="162"/>
+      <location value="160"/>
+      advertisement
+    </text>
+    <text>
+      <location value="219"/>
+      <location value="154"/>
+      <location value="251"/>
+      <location value="159"/>
+      products
+    </text>
+    <text>
+      <location value="161"/>
+      <location value="78"/>
+      <location value="209"/>
+      <location value="83"/>
+      pick up code
+    </text>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="194"/>
+    <location value="132"/>
+    <location value="201"/>
+    7.6.1 Make drink
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="205"/>
+    <location value="100"/>
+    <location value="212"/>
+    l Buy drinks：
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="217"/>
+    <location value="360"/>
+    <location value="222"/>
+    Buy one cup：For non-free available drinks, tap product icon then purchase.
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="228"/>
+    <location value="449"/>
+    <location value="244"/>
+    Buy multiple cups：For non-free available drinks, tap product, add to cart and purchase. Up to 10 products can be added to cart.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="248"/>
+    <location value="99"/>
+    <location value="255"/>
+    l Free drink：
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="259"/>
+    <location value="325"/>
+    <location value="265"/>
+    For free drinks, tap pay and the product will be made automatically.
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="270"/>
+    <location value="283"/>
+    <location value="276"/>
+<![CDATA[Tap "pickup code" and input pickup code to make drinks.]]>  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="280"/>
+    <location value="442"/>
+    <location value="297"/>
+    l Adjust materials: Can be set on PC back end, after enabled, customers can adjust the amount of materials.
+    <ldiv/>
+    <location value="37"/>
+    <location value="301"/>
+    <location value="387"/>
+    <location value="308"/>
+    l Payment method：Qr code, card reader, coin and cash, can be set on PC back end.
+  </list>
+  <picture>
+    <location value="50"/>
+    <location value="313"/>
+    <location value="455"/>
+    <location value="383"/>
+    <src uri="assets/image_000069_4081530de1a4b5f55eaed63611966d2a722aa7e6c3d70b5600c03582814c9555.png"/>
+    <text>
+      <location value="88"/>
+      <location value="374"/>
+      <location value="139"/>
+      <location value="380"/>
+      buy one cup
+    </text>
+    <text>
+      <location value="227"/>
+      <location value="375"/>
+      <location value="283"/>
+      <location value="380"/>
+      buy from cart
+    </text>
+    <text>
+      <location value="369"/>
+      <location value="374"/>
+      <location value="422"/>
+      <location value="380"/>
+      pick up code
+    </text>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="392"/>
+    <location value="193"/>
+    <location value="399"/>
+    7.6.2 Add payment method
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="405"/>
+    <location value="474"/>
+    <location value="421"/>
+    On PC end: Login operator, Payment management, and add new payment method, set a payment name to display on machine screen and save the setting.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="425"/>
+    <location value="467"/>
+    <location value="432"/>
+    l For Wechat,  Alipay and method require secondary settings, click config--input parameters--save
+    <ldiv/>
+    <location value="37"/>
+    <location value="436"/>
+    <location value="439"/>
+    <location value="442"/>
+    l Multi-language for payment method complies to the language selected on the machine screen.
+    <ldiv/>
+    <location value="37"/>
+    <location value="447"/>
+    <location value="452"/>
+    <location value="464"/>
+    l When there is only 1 payment method, the machine will skip payment method selection page and display qr code or swipe card page directly.
+  </list>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    21
+  </page_footer>
+  <page_break/>
+  <picture>
+    <location value="31"/>
+    <location value="16"/>
+    <location value="160"/>
+    <location value="30"/>
+    <src uri="assets/image_000070_1da1b92c75a56896cad880927342374c390b21ea2f9d6853b9af3655e7073c36.png"/>
+  </picture>
+  <picture>
+    <location value="28"/>
+    <location value="37"/>
+    <location value="480"/>
+    <location value="204"/>
+    <src uri="assets/image_000071_b4ae44441ea28a2e773fa76ab7b3b849dc7c36c9269db205a5e04b66d504d4c9.png"/>
+    <text>
+      <location value="127"/>
+      <location value="70"/>
+      <location value="136"/>
+      <location value="81"/>
+      1
+    </text>
+    <text>
+      <location value="304"/>
+      <location value="190"/>
+      <location value="313"/>
+      <location value="201"/>
+      2
+    </text>
+    <text>
+      <location value="426"/>
+      <location value="84"/>
+      <location value="436"/>
+      <location value="95"/>
+      3
+    </text>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="210"/>
+    <location value="244"/>
+    <location value="220"/>
+    7.7 Inventory and sold out
+  </heading>
+  <heading level="2">
+    <location value="37"/>
+    <location value="226"/>
+    <location value="203"/>
+    <location value="234"/>
+    7.7.1 Inventory management
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="238"/>
+    <location value="458"/>
+    <location value="255"/>
+    l The machine detect inventory in 2 ways, physical detection for beans, cups, cream, water, fresh milk and ice, and data detection for powder, liquid material, and topping material.
+    <ldiv/>
+    <location value="37"/>
+    <location value="259"/>
+    <location value="461"/>
+    <location value="287"/>
+    l When using inventory function, please input actual calibration value, alert value, sold out value, total capacity and inventory data in Channel management, the inventory data is the amount added, click reset to reset the data.
+    <ldiv/>
+    <location value="37"/>
+    <location value="291"/>
+    <location value="469"/>
+    <location value="308"/>
+    l Inventory on PC end: Login operator account, machine management, machine list, view, inventory and add inventory.
+    <ldiv/>
+    <location value="37"/>
+    <location value="312"/>
+    <location value="439"/>
+    <location value="319"/>
+    l Inventory on machine back end: Enter machine back end, tap        icon in channel management.
+  </list>
+  <picture>
+    <location value="57"/>
+    <location value="320"/>
+    <location value="455"/>
+    <location value="388"/>
+    <src uri="assets/image_000072_aa31d5946f24acc8bc245a702dabc0e0e88bff32b4d7df4c9ec53c582bfaab62.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="394"/>
+    <location value="119"/>
+    <location value="402"/>
+    7.7.2 Sold out
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="406"/>
+    <location value="298"/>
+    <location value="412"/>
+    l Insufficient beans, products containing coffee beans will be sold out.
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="416"/>
+    <location value="473"/>
+    <location value="430"/>
+    Insufficient paper cups, hot drink will be sold out for machines that use 2 types of cups. All drinks will be sold out for machines use only paper cups.
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="435"/>
+    <location value="236"/>
+    <location value="440"/>
+    Insufficient plastic cups, cold drinks will be sold out.
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="444"/>
+    <location value="270"/>
+    <location value="449"/>
+    Insufficient lids(automatic lidding model), no sold-out notice.
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="454"/>
+    <location value="448"/>
+    <location value="468"/>
+    Insufficient milk, for single milk machine, both of the milk boxes will display insufficient material, all fresh milk product will be sold out. For double milk machine, sold out products comply with corresponding milk box.
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="473"/>
+    <location value="224"/>
+    <location value="478"/>
+    Insufficient cream, cream products will be sold out.
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="482"/>
+    <location value="217"/>
+    <location value="487"/>
+    Insufficient water, all products will be sold out.
+  </text>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    22
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="45"/>
+    <location value="119"/>
+    <location value="53"/>
+    7.7.2 Sold out
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="57"/>
+    <location value="466"/>
+    <location value="72"/>
+    l When sold out value＜powder, liquid and topping material inventory ≤ alert value，alert prompt will be displayed on PC back end. The drinks containing this material will not be sold out.
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="77"/>
+    <location value="472"/>
+    <location value="100"/>
+    When powder, liquid and topping material inventory ≤ sold out value, products contain the material will be sold out. When beans, fresh milk, lids and cups inventory ≤alert value, alert prompt will be displayed on PC back end, no soldout sign will be displayed.
+  </text>
+  <heading level="2">
+    <location value="37"/>
+    <location value="106"/>
+    <location value="195"/>
+    <location value="116"/>
+    7.8 Machine settings
+  </heading>
+  <heading level="2">
+    <location value="37"/>
+    <location value="122"/>
+    <location value="133"/>
+    <location value="130"/>
+    7.8.1  UI settings
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="135"/>
+    <location value="439"/>
+    <location value="140"/>
+    Login operator account, machine management, machine list, view, UI settings, add and edit to upload pictures.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="143"/>
+    <location value="319"/>
+    <location value="149"/>
+    l You can upload up to 5 banner posters, and only 1 picture for other icons.
+  </list>
+  <picture>
+    <location value="175"/>
+    <location value="152"/>
+    <location value="321"/>
+    <location value="199"/>
+    <src uri="assets/image_000073_baa8bfd881ad6b32eb84ec37499a5d488787663f0be2465d0f1fd0608d6226d0.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="211"/>
+    <location value="183"/>
+    <location value="218"/>
+    7.8.2 Advertising settings
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="223"/>
+    <location value="450"/>
+    <location value="238"/>
+    On PC back end: Login operator account, machine management, machine list, view, advertising settings, and add pictures and videos according to the format requirement. Parameter setting is for enable and disable AD function.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="241"/>
+    <location value="292"/>
+    <location value="247"/>
+    l This setting is for stand by advertising, video and slides supported.
+    <ldiv/>
+    <location value="37"/>
+    <location value="251"/>
+    <location value="400"/>
+    <location value="257"/>
+    l Only upload jpg and ma4, up to 5 videos and pictures supported. Size: 1920*1080 or 1080*1920.
+    <ldiv/>
+    <location value="37"/>
+    <location value="260"/>
+    <location value="450"/>
+    <location value="276"/>
+    l Stand by duration: How long the machine will start to display advertising without people touching the screen. Minimum 30s.
+    <ldiv/>
+    <location value="37"/>
+    <location value="279"/>
+    <location value="215"/>
+    <location value="285"/>
+    l You can edit and delete advertising materials.
+  </list>
+  <picture>
+    <location value="38"/>
+    <location value="286"/>
+    <location value="471"/>
+    <location value="371"/>
+    <src uri="assets/image_000074_fad7c07810662a5f087701250f27ca707cc83634a072a8c90fbff85d400ea21f.png"/>
+  </picture>
+  <heading level="2">
+    <location value="30"/>
+    <location value="382"/>
+    <location value="144"/>
+    <location value="389"/>
+    7.8.3 Audio settings
+  </heading>
+  <text>
+    <location value="30"/>
+    <location value="394"/>
+    <location value="426"/>
+    <location value="408"/>
+    On PC back end: Login operator account, Machine management--Machine list--View--Audio settings Click add--choose audio track--click upload audio file.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="30"/>
+    <location value="412"/>
+    <location value="375"/>
+    <location value="418"/>
+    l Multi language: click audio management-add-select device language and upload audio file.
+    <ldiv/>
+    <location value="30"/>
+    <location value="421"/>
+    <location value="119"/>
+    <location value="427"/>
+    l Support mp3 format.
+  </list>
+  <picture>
+    <location value="66"/>
+    <location value="433"/>
+    <location value="438"/>
+    <location value="476"/>
+    <src uri="assets/image_000075_9ad0806504c7c0a5daa58a38e7c4491960fe0294c886ac4f6ee7f18aaba00fb2.png"/>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    23
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="48"/>
+    <location value="149"/>
+    <location value="55"/>
+    7.8.4 Copy machine
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="60"/>
+    <location value="453"/>
+    <location value="77"/>
+    On PC back end: Login operator account, Machine management--Machine list--Copy to another machines. Check 2 machines and save.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="81"/>
+    <location value="364"/>
+    <location value="87"/>
+    l Machines with same model and configuration can be copied with each other.
+    <ldiv/>
+    <location value="37"/>
+    <location value="91"/>
+    <location value="443"/>
+    <location value="108"/>
+    l Channel, product classification, product information, recipe, UI and AD will be copied to the selected machine. Machine details, inventory，orders and activities will not be copied.
+  </list>
+  <picture>
+    <location value="34"/>
+    <location value="112"/>
+    <location value="461"/>
+    <location value="174"/>
+    <src uri="assets/image_000076_900da5689ad35676bee3cdbbefbabc97c362fe3db1c8e16c010aa23f91941487.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="183"/>
+    <location value="176"/>
+    <location value="190"/>
+    7.8.5 Parameter settings
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="196"/>
+    <location value="468"/>
+    <location value="223"/>
+    On PC back end: Login operator account, Machine management--Machine list--Parameter setting. You can set machine aliases, machine languages, machine address, machine and operator password, milk shelf life, enable/disable temperature monitor and cart, set product names.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="227"/>
+    <location value="465"/>
+    <location value="244"/>
+    l Machine password access to all machine settings, operator password access to machine setting page, excluding product recipe, calibration, sale data and password modification.
+    <ldiv/>
+    <location value="37"/>
+    <location value="248"/>
+    <location value="464"/>
+    <location value="265"/>
+    l You can change machine password in machine back end, but operator password can not be changed on machine.
+    <ldiv/>
+    <location value="37"/>
+    <location value="269"/>
+    <location value="443"/>
+    <location value="286"/>
+    l Temperature monitor is only for the model with refrigerator. You can check temperature data in temperature monitor log.
+    <ldiv/>
+    <location value="37"/>
+    <location value="291"/>
+    <location value="303"/>
+    <location value="297"/>
+    l Products information is where you can change  nutrition facts.
+  </list>
+  <picture>
+    <location value="92"/>
+    <location value="302"/>
+    <location value="419"/>
+    <location value="373"/>
+    <src uri="assets/image_000077_0752e7cc1843ca04b42c7b626d8b39bb4b9865c41a56bc364866065d715f9ad8.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="386"/>
+    <location value="211"/>
+    <location value="396"/>
+    7.9 Campaign settings
+  </heading>
+  <heading level="2">
+    <location value="37"/>
+    <location value="403"/>
+    <location value="233"/>
+    <location value="410"/>
+    7.9.1 Buy one and get one for free
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="415"/>
+    <location value="464"/>
+    <location value="442"/>
+    After buying a campaign product , there will be a QR code on the upper right corner of the screen, scanning it and your phone will receive a pickup code. Enter the code on the machine to get a free drink. On PC back end:
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="446"/>
+    <location value="416"/>
+    <location value="453"/>
+    l Login operator account, sales management, activity management and add new campaign.
+    <ldiv/>
+    <location value="37"/>
+    <location value="457"/>
+    <location value="182"/>
+    <location value="464"/>
+    l Select campaign machine scope.
+    <ldiv/>
+    <location value="37"/>
+    <location value="468"/>
+    <location value="456"/>
+    <location value="485"/>
+    l After check the machine, the products of the machine will be displayed, select a campaign product, then click add, select the corresponding free drink and save.
+  </list>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    24
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="48"/>
+    <location value="232"/>
+    <location value="55"/>
+    7.9.1 Buy one and get one for free
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="60"/>
+    <location value="338"/>
+    <location value="65"/>
+<![CDATA[Note: 1.Campaign information will be displayed on customer's mobile phone.]]>  </text>
+  <list class="ordered">
+    <ldiv>
+      <marker>2.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="69"/>
+    <location value="437"/>
+    <location value="84"/>
+    Machine identify activity products through product number, please pay attention if the product numbers in the activity are consistent.
+    <ldiv>
+      <marker>3.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="88"/>
+    <location value="460"/>
+    <location value="103"/>
+    The SMS received by the customer shows the validity period of the activity. After setting the end time of the activity, do not change it.
+    <ldiv>
+      <marker>4.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="107"/>
+    <location value="430"/>
+    <location value="121"/>
+    To use SMS services, customers need to purchase SMS packages first. If SMS packages are not configured, customers will not receive SMS messages after scanning the code.
+  </list>
+  <picture>
+    <location value="40"/>
+    <location value="126"/>
+    <location value="490"/>
+    <location value="239"/>
+    <src uri="assets/image_000078_66d181402a4594470098e7a6a0061ac906dd2eb45919297c89fe3be389c917ff.png"/>
+    <text>
+      <location value="322"/>
+      <location value="213"/>
+      <location value="327"/>
+      <location value="218"/>
+      1
+    </text>
+    <text>
+      <location value="322"/>
+      <location value="223"/>
+      <location value="327"/>
+      <location value="229"/>
+      2
+    </text>
+    <text>
+      <location value="368"/>
+      <location value="212"/>
+      <location value="373"/>
+      <location value="218"/>
+      3
+    </text>
+  </picture>
+  <heading level="2">
+    <location value="38"/>
+    <location value="251"/>
+    <location value="141"/>
+    <location value="259"/>
+    7.9.2 Pick up code
+  </heading>
+  <text>
+    <location value="38"/>
+    <location value="263"/>
+    <location value="335"/>
+    <location value="268"/>
+    On PC back end: Login operator account, Sales management, create pick up code.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="38"/>
+    <location value="272"/>
+    <location value="218"/>
+    <location value="278"/>
+    l There are universal code and designated code
+    <ldiv/>
+    <location value="38"/>
+    <location value="282"/>
+    <location value="353"/>
+    <location value="287"/>
+    Universal code：applicable for all products of all machines under the same account.
+  </list>
+  <text>
+    <location value="38"/>
+    <location value="292"/>
+    <location value="451"/>
+    <location value="306"/>
+    Designated code：applicable for specific product of specific machine under the same account. Product is identified by product number.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="38"/>
+    <location value="310"/>
+    <location value="404"/>
+    <location value="316"/>
+    l Pick up code generated by PC back end has no expiration date and will become invalid upon use.
+    <ldiv/>
+    <location value="38"/>
+    <location value="319"/>
+    <location value="240"/>
+    <location value="325"/>
+    l You can check pick up code information and export.
+    <ldiv/>
+    <location value="38"/>
+    <location value="329"/>
+    <location value="445"/>
+    <location value="344"/>
+    l Before setting up the activity, please purchase the SMS package. If the SMS package is not configured, customers will not receive the SMS after scanning the code.
+  </list>
+  <text>
+    <location value="38"/>
+    <location value="349"/>
+    <location value="369"/>
+    <location value="354"/>
+    You can batch generate universal pick up code and you can also send by sms to customers.
+  </text>
+  <picture>
+    <location value="70"/>
+    <location value="357"/>
+    <location value="444"/>
+    <location value="396"/>
+    <src uri="assets/image_000079_c14095a622d275b0c3e79235e4858ad52b78724b951019d9de354fbdaf928977.png"/>
+  </picture>
+  <text>
+    <location value="38"/>
+    <location value="405"/>
+    <location value="471"/>
+    <location value="410"/>
+    For designated code, select machine--select product--select scope--batch generate/send by sms and generate.
+  </text>
+  <picture>
+    <location value="64"/>
+    <location value="420"/>
+    <location value="447"/>
+    <location value="485"/>
+    <src uri="assets/image_000080_49e0e2af235b2d38b2656770565087ba5b3673cc4ee0d990963bfbe2379fbbb7.png"/>
+    <text>
+      <location value="104"/>
+      <location value="431"/>
+      <location value="109"/>
+      <location value="437"/>
+      1
+    </text>
+    <text>
+      <location value="154"/>
+      <location value="431"/>
+      <location value="159"/>
+      <location value="437"/>
+      2
+    </text>
+    <text>
+      <location value="202"/>
+      <location value="431"/>
+      <location value="207"/>
+      <location value="437"/>
+      3
+    </text>
+    <text>
+      <location value="294"/>
+      <location value="431"/>
+      <location value="299"/>
+      <location value="437"/>
+      4
+    </text>
+    <text>
+      <location value="317"/>
+      <location value="431"/>
+      <location value="322"/>
+      <location value="437"/>
+      5
+    </text>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    25
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="47"/>
+    <location value="111"/>
+    <location value="57"/>
+    7.10 Data
+  </heading>
+  <heading level="2">
+    <location value="37"/>
+    <location value="63"/>
+    <location value="133"/>
+    <location value="71"/>
+    7.10.1 Sales data
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="76"/>
+    <location value="365"/>
+    <location value="81"/>
+    PC back end: Login operator account to view sales data and refund records in My earnings
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="84"/>
+    <location value="343"/>
+    <location value="90"/>
+    l Click order information to check order, and refund for certain payment methods.
+    <ldiv/>
+    <location value="37"/>
+    <location value="94"/>
+    <location value="448"/>
+    <location value="109"/>
+<![CDATA[l Click 'refund' to refund the order, and the money will be returned to the payment account(only for certain payment methods).]]>    
+    <ldiv/>
+    <location value="37"/>
+    <location value="113"/>
+    <location value="240"/>
+    <location value="119"/>
+    l You can view refund records in refund management.
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="123"/>
+    <location value="470"/>
+    <location value="137"/>
+    Automatic refund: production failed, the system will refund immediately, if power off during production, the system will refund in 15 mins.
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="142"/>
+    <location value="412"/>
+    <location value="156"/>
+    Manual refund: click refund button in PC back end, refresh the page after 2 mins to check the status. Machine backend: tap equipment test, sales data and view.
+  </text>
+  <picture>
+    <location value="51"/>
+    <location value="158"/>
+    <location value="455"/>
+    <location value="205"/>
+    <src uri="assets/image_000081_59a99e23367441459c8702b2725dc67af74a3b5fa32f969ea7df115e6cda215e.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="215"/>
+    <location value="286"/>
+    <location value="222"/>
+    7.10.2 Replenishment and consumption log
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="227"/>
+    <location value="471"/>
+    <location value="241"/>
+    PC back end: Login operator account, machine management, machine log information to view the log information, you can export consumption log with in 3 months.
+  </text>
+  <heading level="2">
+    <location value="37"/>
+    <location value="249"/>
+    <location value="123"/>
+    <location value="259"/>
+    7.11 Status
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="264"/>
+    <location value="457"/>
+    <location value="278"/>
+    PC back end: Login operator account, machine list, machine basic information, machine log information to view the details.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="282"/>
+    <location value="469"/>
+    <location value="297"/>
+    l Main page：click the number on upper left corner to navigate to the machine status list, click status information to navigate to the basic information page.
+    <ldiv/>
+    <location value="37"/>
+    <location value="301"/>
+    <location value="312"/>
+    <location value="306"/>
+    l Machine basic information: the status texts will turn red when abnormal.
+    <ldiv/>
+    <location value="37"/>
+    <location value="310"/>
+    <location value="456"/>
+    <location value="335"/>
+    l Machine log information: machine management, machine log information, to view online/offline log, failure machine, insufficient material information, temperature monitor log, some of the log can be exported within 10 days.
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="339"/>
+    <location value="462"/>
+    <location value="363"/>
+<![CDATA[When the machine and back-end display status are inconsistent due to network reasons,  you can click the "Machine Status Synchronization" button in the 'equipment status" to synchronize the status when net work condition gets better.]]>  </text>
+  <heading level="2">
+    <location value="37"/>
+    <location value="368"/>
+    <location value="70"/>
+    <location value="372"/>
+    PC end：
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="376"/>
+    <location value="326"/>
+    <location value="382"/>
+    l Enter machine backend, check machine status, abnormal status will turn red.
+    <ldiv/>
+    <location value="37"/>
+    <location value="386"/>
+    <location value="449"/>
+    <location value="392"/>
+    l Enter machine backend, machine status, machine status list, when abnormal, the icon will turn red with notice.
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="396"/>
+    <location value="462"/>
+    <location value="420"/>
+<![CDATA[When the machine and back-end display status are inconsistent due to network reasons,  you can click the "Machine Status Synchronization" button in the 'equipment status" to synchronize the status when net work condition gets better.]]>  </text>
+  <picture>
+    <location value="40"/>
+    <location value="422"/>
+    <location value="460"/>
+    <location value="491"/>
+    <src uri="assets/image_000082_3baec14b565a0caba9acced9ae639400f0e3f5cb50058b87d17574b6751ff8f4.png"/>
+    <text>
+      <location value="100"/>
+      <location value="482"/>
+      <location value="142"/>
+      <location value="487"/>
+      Pc backend
+    </text>
+    <text>
+      <location value="380"/>
+      <location value="477"/>
+      <location value="440"/>
+      <location value="488"/>
+      Machine Status Synchronization
+    </text>
+    <text>
+      <location value="255"/>
+      <location value="483"/>
+      <location value="319"/>
+      <location value="488"/>
+      Equipment status
+    </text>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    26
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="50"/>
+    <location value="196"/>
+    <location value="60"/>
+    7.12 Remote control
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="69"/>
+    <location value="447"/>
+    <location value="74"/>
+    On PC backend: Login operator backend, machine management, machine list, view, machine control.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="78"/>
+    <location value="253"/>
+    <location value="85"/>
+    l I/O board restart: for machines using I/O board.
+    <ldiv/>
+    <location value="37"/>
+    <location value="89"/>
+    <location value="225"/>
+    <location value="96"/>
+    l APK restart: Remote restart machine apk.
+    <ldiv/>
+    <location value="37"/>
+    <location value="100"/>
+    <location value="235"/>
+    <location value="106"/>
+    l Open door: remote open the machine door
+    <ldiv/>
+    <location value="37"/>
+    <location value="110"/>
+    <location value="288"/>
+    <location value="117"/>
+    l Open pick-up door: remote open machine pick-up door.
+    <ldiv/>
+    <location value="37"/>
+    <location value="121"/>
+    <location value="288"/>
+    <location value="128"/>
+    l Close pick-up door: remote close machine pick-up door.
+    <ldiv/>
+    <location value="37"/>
+    <location value="132"/>
+    <location value="461"/>
+    <location value="170"/>
+    l Cup holder to pick-up position and open pick-up door: in case of power cut or other emergency condition resulting unable to pick up the drink, please tap this button, the cup holder will move to pick-up position and open the pick-up door. After pick up the drink, tap confirm button, the cup holder will move back to original position and close the pick-up door
+    <ldiv/>
+    <location value="37"/>
+    <location value="174"/>
+    <location value="281"/>
+    <location value="181"/>
+    l Machine standard cleaning: remote clean the machine.
+    <ldiv/>
+    <location value="37"/>
+    <location value="185"/>
+    <location value="438"/>
+    <location value="191"/>
+    l Milk pipe descaling cleaning: remote descaling clean the milk pipe, apply to fresh milk model
+    <ldiv/>
+    <location value="37"/>
+    <location value="195"/>
+    <location value="437"/>
+    <location value="202"/>
+    l Open machine door and enter back end: remote open the door and enter machine back end.
+    <ldiv/>
+    <location value="37"/>
+    <location value="206"/>
+    <location value="473"/>
+    <location value="223"/>
+    l Machine Status Synchronization：when the computer can not receive the machine status update due to poor network condition, tap this button to update.
+  </list>
+  <heading level="2">
+    <location value="37"/>
+    <location value="234"/>
+    <location value="173"/>
+    <location value="245"/>
+    7.13 Sub-account
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="253"/>
+    <location value="104"/>
+    <location value="259"/>
+    On PC back end:
+  </text>
+  <text>
+    <location value="37"/>
+    <location value="264"/>
+    <location value="460"/>
+    <location value="280"/>
+    Step1: Login operator account, Permission management--Role management, add new role and save, then check the permissions for the new role and save.
+  </text>
+  <picture>
+    <location value="92"/>
+    <location value="284"/>
+    <location value="405"/>
+    <location value="391"/>
+    <caption>
+      <location value="37"/>
+      <location value="407"/>
+      <location value="468"/>
+      <location value="424"/>
+      Step 2: Permission management-user management, add information and save. then check the new sub account, machine authorities and save.
+    </caption>
+    <src uri="assets/image_000083_09c9bd2eebe597ae75fa6d6133711f2e22b7b5cf1d04301a0562ea19ff500e5f.png"/>
+    <text>
+      <location value="140"/>
+      <location value="306"/>
+      <location value="145"/>
+      <location value="312"/>
+      1
+    </text>
+    <text>
+      <location value="155"/>
+      <location value="307"/>
+      <location value="160"/>
+      <location value="312"/>
+      2
+    </text>
+  </picture>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="428"/>
+    <location value="305"/>
+    <location value="434"/>
+    l You can give sub account limited or full access to the machine.
+  </list>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    27
+  </page_footer>
+  <page_break/>
+  <picture>
+    <location value="32"/>
+    <location value="38"/>
+    <location value="479"/>
+    <location value="170"/>
+    <src uri="assets/image_000084_7b7f9fe05d33f5e68d71f8992eeb65512d574f8de3d3d5d812b56e7746e39aee.png"/>
+    <text>
+      <location value="142"/>
+      <location value="79"/>
+      <location value="147"/>
+      <location value="85"/>
+      1
+    </text>
+    <text>
+      <location value="234"/>
+      <location value="120"/>
+      <location value="239"/>
+      <location value="125"/>
+      2
+    </text>
+  </picture>
+  <text>
+    <location value="37"/>
+    <location value="187"/>
+    <location value="439"/>
+    <location value="192"/>
+    Reset password: check account and click reset password and confirm. Default pass word is 123456.
+  </text>
+  <heading level="2">
+    <location value="37"/>
+    <location value="205"/>
+    <location value="298"/>
+    <location value="216"/>
+    7.14 Change account information
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="225"/>
+    <location value="436"/>
+    <location value="242"/>
+    On PC back end: Login operator account, click user information on upper right corner to change username and password.
+  </text>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    28
+  </page_footer>
+  <page_break/>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    29
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="47"/>
+    <location value="141"/>
+    <location value="57"/>
+    8.1  Overview
+  </heading>
+  <table>
+    <location value="29"/>
+    <location value="56"/>
+    <location value="480"/>
+    <location value="329"/>
+    <ched/>
+    Scope
+    <ched/>
+    Items
+    <ched/>
+    Content
+    <ched/>
+    Frequency
+    <nl/>
+    <fcel/>
+    Material
+    <fcel/>
+    Coffee bean hopper
+    <fcel/>
+    Add material
+    <fcel/>
+    Replenish timely
+    <nl/>
+    <ecel/>
+    <fcel/>
+    Canister
+    <fcel/>
+    Add material
+    <fcel/>
+    Replenish timely
+    <nl/>
+    <ecel/>
+    <fcel/>
+    Canister outlet
+    <fcel/>
+    Manual cleaning
+    <fcel/>
+    Daily cleaning
+    <nl/>
+    <ecel/>
+    <fcel/>
+    Syrup inlet
+    <fcel/>
+    Manual cleaning
+    <fcel/>
+    Daily cleaning, replace every half year
+    <nl/>
+    <ecel/>
+    <fcel/>
+    Material area
+    <fcel/>
+    Wipe
+    <fcel/>
+    Daily cleaning
+    <nl/>
+    <ecel/>
+    <fcel/>
+    Dispenser support
+    <fcel/>
+    Wipe
+    <fcel/>
+    Daily cleaning
+    <nl/>
+    <fcel/>
+    Dispenser components
+    <fcel/>
+    Dispenser
+    <fcel/>
+    Automatic cleaning
+    <fcel/>
+    Daily cleaning
+    <nl/>
+    <ecel/>
+    <fcel/>
+    Dispenser nozzle
+    <fcel/>
+    Automatic cleaning /Replace
+    <fcel/>
+    Daily cleaning, replace every half year
+    <nl/>
+    <fcel/>
+    Mixer components Mixer
+    <lcel/>
+    <fcel/>
+    Automatic/Manual cleaning
+    <fcel/>
+    Daily cleaning
+    <nl/>
+    <fcel/>
+    Waste water/grounds
+    <fcel/>
+    Waste water bucket
+    <fcel/>
+    Manual cleaning
+    <fcel/>
+    Daily cleaning
+    <nl/>
+    <fcel/>
+    bucket
+    <fcel/>
+    Coffee grounds bucket
+    <fcel/>
+    Manual cleaning
+    <fcel/>
+    Daily cleaning
+    <nl/>
+    <ecel/>
+    <fcel/>
+    Brewer exterior
+    <fcel/>
+    Wipe
+    <fcel/>
+    Daily cleaning
+    <nl/>
+    <fcel/>
+    Brewing module
+    <fcel/>
+    Brewer interior
+    <fcel/>
+    Automatic/Descaling cleaning
+    <fcel/>
+    Daily cleaning, thoroughly cleaning every month
+    <nl/>
+    <fcel/>
+    Grinder
+    <fcel/>
+    Coffee powder pipe outlet
+    <fcel/>
+    Manual cleaning
+    <fcel/>
+    Clean every month
+    <nl/>
+    <fcel/>
+    Ice maker
+    <fcel/>
+    Ice maker
+    <fcel/>
+    Automatic cleaning
+    <fcel/>
+    Daily cleaning
+    <nl/>
+    <ecel/>
+    <fcel/>
+    Ice maker water discharging pipe
+    <fcel/>
+    Replace
+    <fcel/>
+    Replace every 6 months
+    <nl/>
+    <ecel/>
+    <fcel/>
+    Ice maker Condenser
+    <fcel/>
+    Manual cleaning
+    <fcel/>
+    Clean every 2 months
+    <nl/>
+    <fcel/>
+    Pick up
+    <fcel/>
+    Tray
+    <fcel/>
+    Wipe
+    <fcel/>
+    Daily cleaning
+    <nl/>
+    <ecel/>
+    <fcel/>
+    Cup holder
+    <fcel/>
+    Wipe
+    <fcel/>
+    Daily cleaning
+    <nl/>
+    <ecel/>
+    <fcel/>
+    Pick up/ consumable compartment
+    <fcel/>
+    Wipe
+    <fcel/>
+    Daily cleaning
+    <nl/>
+    <ecel/>
+    <fcel/>
+    Glass panel
+    <fcel/>
+    Wipe
+    <fcel/>
+    Daily cleaning
+    <nl/>
+    <fcel/>
+    Body
+    <fcel/>
+    Interior/Exterior
+    <fcel/>
+    Wipe
+    <fcel/>
+    Daily cleaning
+    <nl/>
+  </table>
+  <heading level="2">
+    <location value="37"/>
+    <location value="334"/>
+    <location value="307"/>
+    <location value="344"/>
+    8.2 Daily cleaning and maintenance
+  </heading>
+  <heading level="2">
+    <location value="37"/>
+    <location value="350"/>
+    <location value="214"/>
+    <location value="357"/>
+    8.2.1 Clean Canister and nozzle
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="361"/>
+    <location value="464"/>
+    <location value="377"/>
+    l Clean canister: Pull the mixer cover, turn canister nozzle upward then lift to remove the canister. Empty the canister before cleaning and dry it before installation.
+    <ldiv/>
+    <location value="37"/>
+    <location value="380"/>
+    <location value="227"/>
+    <location value="386"/>
+    l Clean nozzle: Turn and pull the nozzle to remove
+  </list>
+  <picture>
+    <location value="36"/>
+    <location value="386"/>
+    <location value="53"/>
+    <location value="396"/>
+    <src uri="assets/image_000085_3158cf867f28a5f74b395dc8acad2f84b9b97fe9e2c202a243a3255615c8c0e1.png"/>
+  </picture>
+  <text>
+    <location value="37"/>
+    <location value="390"/>
+    <location value="462"/>
+    <location value="424"/>
+    Note: 1. Due to factors such as environmental temperature, humidity, material thickness, and sugar content, the degree of moisture and agglomeration at the powder outlet may be different. It is recommended that you regularly clean the powder outlet based on the actual situation to avoid blockage. (Daily cleaning is required in special circumstances) !
+  </text>
+  <list class="ordered">
+    <ldiv>
+      <marker>2.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="428"/>
+    <location value="395"/>
+    <location value="433"/>
+    standard the machine after refilling powder(refer to machine standard cleaning).
+  </list>
+  <picture>
+    <location value="117"/>
+    <location value="436"/>
+    <location value="223"/>
+    <location value="491"/>
+    <src uri="assets/image_000086_f7246d037dc9d591323c200527447af153cc5e831f814e7b6220777944f29fd4.png"/>
+  </picture>
+  <picture>
+    <location value="270"/>
+    <location value="436"/>
+    <location value="376"/>
+    <location value="490"/>
+    <src uri="assets/image_000087_70ef98c4b2a8f587e1f09905ddfe9ff7293322c29fcc9823af817d167e0842c3.png"/>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    30
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="48"/>
+    <location value="141"/>
+    <location value="56"/>
+    8.2.2 Clean mixers
+  </heading>
+  <list class="ordered">
+    <ldiv>
+      <marker>1.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="60"/>
+    <location value="444"/>
+    <location value="65"/>
+    Lift the mixer to remove, turn the base clockwise and pull to remove (Pic 1,2). Weekly cleaning recommended.
+    <ldiv>
+      <marker>2.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="70"/>
+    <location value="464"/>
+    <location value="84"/>
+    When installing after cleaning, install the surface with protrusions on the impeller corresponding to the position of the shaft plane, install the mixer assembly, and insert the water outlet into place (Pic.3)
+  </list>
+  <picture>
+    <location value="84"/>
+    <location value="88"/>
+    <location value="154"/>
+    <location value="154"/>
+    <src uri="assets/image_000088_c72b03fc97f6fb874a62b45cdb215a5080e10726654bcd5e152dcf626d4326bc.png"/>
+    <text>
+      <location value="110"/>
+      <location value="146"/>
+      <location value="128"/>
+      <location value="151"/>
+      pic1
+    </text>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="162"/>
+    <location value="175"/>
+    <location value="170"/>
+    8.2.3  Clean pump tubes
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="174"/>
+    <location value="309"/>
+    <location value="179"/>
+    l Press the metal button on the quick plug to remove the pipe and clean.
+    <ldiv/>
+    <location value="37"/>
+    <location value="183"/>
+    <location value="450"/>
+    <location value="189"/>
+    l Connect the cleaning pipe with the syrup inlet, and press the corresponding pump button to clean syrup pipe.
+    <ldiv/>
+    <location value="37"/>
+    <location value="193"/>
+    <location value="459"/>
+    <location value="208"/>
+    l Please clean the unused pulp pump in a timely manner. If there is pulp condensation at the junction of the pipe, soak it in hot water to soften it before performing regular cleaning.
+  </list>
+  <picture>
+    <location value="75"/>
+    <location value="211"/>
+    <location value="139"/>
+    <location value="269"/>
+    <caption>
+      <location value="40"/>
+      <location value="227"/>
+      <location value="74"/>
+      <location value="240"/>
+      Press to remove
+    </caption>
+    <src uri="assets/image_000089_48dcea572cc445d26bb1ddcc3bc7b99be1fa1e671a67c023be61ef67ca85e152.png"/>
+  </picture>
+  <picture>
+    <location value="161"/>
+    <location value="212"/>
+    <location value="225"/>
+    <location value="271"/>
+    <src uri="assets/image_000090_61157cc5811d1237cb11eb31811dbd02ee501fb9e9381f5b2931d0d097ef7e20.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="286"/>
+    <location value="227"/>
+    <location value="294"/>
+    8.2.4 Clean pick-up compartment
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="299"/>
+    <location value="323"/>
+    <location value="305"/>
+    Lift the clips on the both sides of the compartment and open to clean.
+  </text>
+  <picture>
+    <location value="331"/>
+    <location value="223"/>
+    <location value="436"/>
+    <location value="261"/>
+    <src uri="assets/image_000091_4730ae7c81ff93091f58c9ca8476c7941c05dce754c5e8e3ee3ce9f176f89463.png"/>
+  </picture>
+  <picture>
+    <location value="352"/>
+    <location value="276"/>
+    <location value="423"/>
+    <location value="326"/>
+    <src uri="assets/image_000092_5d5812cb2e945414f9174252d241b807ba7f9155e2bf61fbacbbc0a7c60154a2.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="341"/>
+    <location value="257"/>
+    <location value="348"/>
+    8.2.5  Clean consumable compartment
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="353"/>
+    <location value="226"/>
+    <location value="359"/>
+    l Enter machine backend to unlock the door.
+    <ldiv/>
+    <location value="37"/>
+    <location value="363"/>
+    <location value="137"/>
+    <location value="370"/>
+    l Lift the door to clean.
+  </list>
+  <heading level="2">
+    <location value="37"/>
+    <location value="390"/>
+    <location value="199"/>
+    <location value="397"/>
+    8.2.6 Replace barreled water
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="401"/>
+    <location value="448"/>
+    <location value="416"/>
+<![CDATA[l After the water shortage prompt appears, the water barrel needs to be replaced. After replacement, press the "Water Pump Reset" button on the water pump to automatically start pumping water from barrel No. 1.]]>    
+    <ldiv/>
+    <location value="37"/>
+    <location value="420"/>
+    <location value="464"/>
+    <location value="435"/>
+<![CDATA[l If the water shortage lasts for a long time, causing insufficient water for ice maker, it is necessary to press the "→" button twice on the screen of the ice maker to replenish water.]]>    
+  </list>
+  <picture>
+    <location value="100"/>
+    <location value="437"/>
+    <location value="188"/>
+    <location value="483"/>
+    <src uri="assets/image_000093_3805bf05471d02f017e46f1ebdf9802406249e2dabbc65f3d8104d09fcd3bb4c.png"/>
+  </picture>
+  <picture>
+    <location value="269"/>
+    <location value="437"/>
+    <location value="363"/>
+    <location value="483"/>
+    <src uri="assets/image_000094_2fe73b9ca8490f580382b12f9d2bb92e7c1e7c0ba6bad6f01f1ec8ce28524800.png"/>
+  </picture>
+  <picture>
+    <location value="291"/>
+    <location value="335"/>
+    <location value="368"/>
+    <location value="381"/>
+    <src uri="assets/image_000095_770ac1db938ea301f9aa4807152e6e78da38312b1eaf3902730be9d7b7491311.png"/>
+  </picture>
+  <picture>
+    <location value="217"/>
+    <location value="88"/>
+    <location value="296"/>
+    <location value="154"/>
+    <src uri="assets/image_000096_7cbb680e3a5415b40c4ca240b30882b61b5042cd05d876e49a32621da3da512f.png"/>
+    <text>
+      <location value="250"/>
+      <location value="146"/>
+      <location value="267"/>
+      <location value="151"/>
+      pic2
+    </text>
+  </picture>
+  <picture>
+    <location value="334"/>
+    <location value="87"/>
+    <location value="420"/>
+    <location value="154"/>
+    <src uri="assets/image_000097_8081c5f0f3b9698a8ae937680909f9baaca9b200327d1da102cb4e410dd46382.png"/>
+    <text>
+      <location value="384"/>
+      <location value="145"/>
+      <location value="402"/>
+      <location value="151"/>
+      pic3
+    </text>
+    <text>
+      <location value="335"/>
+      <location value="115"/>
+      <location value="358"/>
+      <location value="120"/>
+      water
+    </text>
+    <text>
+      <location value="338"/>
+      <location value="122"/>
+      <location value="353"/>
+      <location value="128"/>
+      inlet
+    </text>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    31
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="48"/>
+    <location value="168"/>
+    <location value="56"/>
+    8.2.7 Machine cleaning
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="61"/>
+    <location value="194"/>
+    <location value="66"/>
+    On machine back end-equipment test:
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="71"/>
+    <location value="374"/>
+    <location value="77"/>
+    l Standard cleaning: press the button and machine will clean pipes automatically.
+    <ldiv/>
+    <location value="37"/>
+    <location value="81"/>
+    <location value="388"/>
+    <location value="88"/>
+    l Regular cleaning: set a time then enable, the machine will clean at the certain time.
+  </list>
+  <picture>
+    <location value="73"/>
+    <location value="93"/>
+    <location value="397"/>
+    <location value="144"/>
+    <src uri="assets/image_000098_9d9a3da3e14c508f2faa3703a09442f9fab1a9658a4c6dca555744eccfe7b718.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="156"/>
+    <location value="299"/>
+    <location value="164"/>
+    8.2.8 Ice dispensing and cleaning of ice maker
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="168"/>
+    <location value="468"/>
+    <location value="185"/>
+    l Ensure sufficient water supply, place the ice container under the ice outlet and the waste water bucket under the drainage outlet;
+    <ldiv/>
+    <location value="37"/>
+    <location value="189"/>
+    <location value="473"/>
+    <location value="207"/>
+<![CDATA[l Continuously press the "↑" or "↓" keys of the ice maker's screen to move the page to the page shown in Figure 1;]]>    
+    <ldiv/>
+    <location value="37"/>
+    <location value="211"/>
+    <location value="472"/>
+    <location value="228"/>
+<![CDATA[l Press the "→" button twice, and the ice maker will complete automatic ice removal and cleaning. After cleaning, the ice maker screen is shown in Figure 2;]]>    
+    <ldiv/>
+    <location value="37"/>
+    <location value="232"/>
+    <location value="195"/>
+    <location value="239"/>
+    l Power off and restart the ice maker.
+  </list>
+  <picture>
+    <location value="118"/>
+    <location value="241"/>
+    <location value="224"/>
+    <location value="301"/>
+    <src uri="assets/image_000099_631cc211c36e234e427d6c66e66ebaeb4ca752b4c2cb2f2ed0a560ca3620770f.png"/>
+    <text>
+      <location value="161"/>
+      <location value="294"/>
+      <location value="180"/>
+      <location value="299"/>
+      Pic.1
+    </text>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="311"/>
+    <location value="246"/>
+    <location value="319"/>
+    8.2.10  Daily cleaning for other parts
+  </heading>
+  <text>
+    <location value="37"/>
+    <location value="324"/>
+    <location value="467"/>
+    <location value="351"/>
+    It is recommended to dump the waste grounds bucket and waste water bucket daily, and other parts can be directly wiped with a clean cloth. After all cleaning is completed, you can enter the machine back end to perform a standard cleaning of the machine.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="355"/>
+    <location value="459"/>
+    <location value="383"/>
+<![CDATA[l Cleaning method: When the machine door is closed or fully opened (not half open to prevent the components on the door from getting wet), press "Standard Cleaning", and the machine will automatically clean each pipeline. Do not perform any other operations during the cleaning process;]]>    
+    <ldiv/>
+    <location value="37"/>
+    <location value="387"/>
+    <location value="470"/>
+    <location value="404"/>
+    l Cleaning frequency: It is recommended that maintenance personnel perform a standard cleaning once a day to prevent bacterial growth and pipeline blockage.
+  </list>
+  <picture>
+    <location value="159"/>
+    <location value="412"/>
+    <location value="333"/>
+    <location value="462"/>
+    <src uri="assets/image_000100_154c8d5cfd02c8eb895fa640590fe67637767f3b8835edc2fa0cb5b41ec4754f.png"/>
+  </picture>
+  <picture>
+    <location value="297"/>
+    <location value="241"/>
+    <location value="397"/>
+    <location value="302"/>
+    <src uri="assets/image_000101_b6c6b0fd5658a2bedb985306a58e8f9fa76a21a8abaca668a3e99af93b8dbd56.png"/>
+    <text>
+      <location value="341"/>
+      <location value="294"/>
+      <location value="360"/>
+      <location value="299"/>
+      Pic.2
+    </text>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    32
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="45"/>
+    <location value="335"/>
+    <location value="55"/>
+    8.3 Regular cleaning and maintenance
+  </heading>
+  <heading level="2">
+    <location value="37"/>
+    <location value="64"/>
+    <location value="203"/>
+    <location value="71"/>
+    8.3.1 Grinder nozzle cleaning
+  </heading>
+  <picture>
+    <location value="39"/>
+    <location value="73"/>
+    <location value="56"/>
+    <location value="83"/>
+    <src uri="assets/image_000102_a60a3ba4d9a9afaee417f4917369c61c2324f1b39f51568358c92fe0c144d783.png"/>
+  </picture>
+  <text>
+    <location value="37"/>
+    <location value="76"/>
+    <location value="365"/>
+    <location value="100"/>
+    After prolonged use, there will be coffee powder residue in the pipeline, and severe residue can cause blockage, obstruction of the grinder motor operation, and damage! Regular cleaning is required, and the method is as follows: !
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="104"/>
+    <location value="365"/>
+    <location value="119"/>
+    l Remove the brewer and use a cleaning brush to clean the inner wall upwards, keeping the pipeline unobstructed.
+    <ldiv/>
+    <location value="37"/>
+    <location value="123"/>
+    <location value="165"/>
+    <location value="129"/>
+    l Weekly cleaning recommended
+  </list>
+  <heading level="2">
+    <location value="37"/>
+    <location value="137"/>
+    <location value="169"/>
+    <location value="144"/>
+    8.3.2  Grinder cleaning
+  </heading>
+  <picture>
+    <location value="39"/>
+    <location value="147"/>
+    <location value="56"/>
+    <location value="157"/>
+    <src uri="assets/image_000103_655d51406d7e4ee4e687395a2b5f97899643fda6a55ab497760e4518b8937988.png"/>
+  </picture>
+  <text>
+    <location value="37"/>
+    <location value="151"/>
+    <location value="475"/>
+    <location value="180"/>
+    After prolonged use of the grinder, there will be lumps and residues of coffee powder inside, which can cause poor powder output. In severe cases, the grinder motor may be blocked and even damaged! Therefore, regular cleaning is required, and the method is as follows: !
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="184"/>
+    <location value="120"/>
+    <location value="190"/>
+    l Cleaning method：
+    <ldiv>
+      <marker>1.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="194"/>
+    <location value="466"/>
+    <location value="208"/>
+<![CDATA[Remove the coffee bean hopper, dismantle the brewer, put a cup to the bottom of the powder dropping pipe, long press the "Coffee Bean 1" test button, and grind out the remaining coffee beans (Figure 1, 2) ；]]>    
+    <ldiv>
+      <marker>2.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="213"/>
+    <location value="456"/>
+    <location value="227"/>
+    Place appropriate amount of cleaning tablet (refer to the tablet instructions) into the feeding port of the grinder, grind out all the tablets, and use a cup catch them (Figure 3)
+    <ldiv>
+      <marker>3.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="232"/>
+    <location value="461"/>
+    <location value="246"/>
+    Add appropriate amount of coffee beans into the feeding port of the grinder, grind all the coffee beans and catch with a cup. Repeat the process multiple times until there are no cleaning tablet residue in the powder;
+    <ldiv>
+      <marker>4.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="251"/>
+    <location value="277"/>
+    <location value="256"/>
+    Clean the powder dropping pipe and install hopper and brewer.
+    <ldiv/>
+    <location value="37"/>
+    <location value="259"/>
+    <location value="291"/>
+    <location value="265"/>
+    l Cleaning frequency: clean every 1000 coffee drinks recommended.
+  </list>
+  <picture>
+    <location value="62"/>
+    <location value="271"/>
+    <location value="462"/>
+    <location value="400"/>
+    <src uri="assets/image_000104_5e3082e45f364e703ab952ee8e3281a6a8a780026bf27a773cf70513e9d97150.png"/>
+    <text>
+      <location value="179"/>
+      <location value="334"/>
+      <location value="198"/>
+      <location value="340"/>
+      Pic.2
+    </text>
+    <text>
+      <location value="274"/>
+      <location value="335"/>
+      <location value="293"/>
+      <location value="340"/>
+      Pic.3
+    </text>
+    <text>
+      <location value="84"/>
+      <location value="334"/>
+      <location value="103"/>
+      <location value="340"/>
+      Pic.1
+    </text>
+    <text>
+      <location value="344"/>
+      <location value="334"/>
+      <location value="464"/>
+      <location value="339"/>
+      Do not put your hand in grinder
+    </text>
+    <text>
+      <location value="377"/>
+      <location value="341"/>
+      <location value="429"/>
+      <location value="347"/>
+      when working
+    </text>
+    <text>
+      <location value="333"/>
+      <location value="335"/>
+      <location value="336"/>
+      <location value="342"/>
+      !
+    </text>
+    <text>
+      <location value="274"/>
+      <location value="372"/>
+      <location value="417"/>
+      <location value="378"/>
+      Comparison before and after cleaning
+    </text>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="409"/>
+    <location value="220"/>
+    <location value="416"/>
+    8.3.3  Brewer descaling cleaning
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="420"/>
+    <location value="465"/>
+    <location value="464"/>
+<![CDATA[l Cleaning method: when the machine door is closed or wide open(to prevent components from splashing), make sure there is sufficient water, put the cleaning tablets into the brewing chamber, tap 'descaling cleaning'，the cleaning duration is about 16 minutes. During the above cleaning process, do not carry out any other operations, and the maintenance personnel shall not leave the machine,｛please use special cleaning tablet[Main ingredients: sodium carbonate (＜35%), sodium percarbonate (＜22%), sulfamic acid (＜20%)], please purchase separately｝]]>    
+    <ldiv/>
+    <location value="37"/>
+    <location value="468"/>
+    <location value="168"/>
+    <location value="474"/>
+    l Monthly cleaning recommended
+  </list>
+  <picture>
+    <location value="387"/>
+    <location value="61"/>
+    <location value="457"/>
+    <location value="125"/>
+    <src uri="assets/image_000105_e0e06c158943e68eae72d28ab0f988131485b9ff07d3f2315211a07af6c4a00a.png"/>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    33
+  </page_footer>
+  <page_break/>
+  <picture>
+    <location value="59"/>
+    <location value="44"/>
+    <location value="239"/>
+    <location value="121"/>
+    <src uri="assets/image_000106_871944c12d4ab729a0007ac172959f6b4a81b8c81b6560dcaa666a689c495b73.png"/>
+    <text>
+      <location value="72"/>
+      <location value="108"/>
+      <location value="109"/>
+      <location value="114"/>
+      cleaning
+    </text>
+    <text>
+      <location value="77"/>
+      <location value="116"/>
+      <location value="101"/>
+      <location value="121"/>
+      tablet
+    </text>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="132"/>
+    <location value="168"/>
+    <location value="139"/>
+    8.3.4  Air inlet cleaning
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="144"/>
+    <location value="360"/>
+    <location value="150"/>
+    l Clean ice maker filter mesh: lift to remove the mesh and clean, dry it before install.
+    <ldiv/>
+    <location value="37"/>
+    <location value="154"/>
+    <location value="461"/>
+    <location value="161"/>
+    l Clean the sponge: Open the ventilation magnetic door, take out the sponge, clean it, and let it dry before use.
+    <ldiv/>
+    <location value="37"/>
+    <location value="165"/>
+    <location value="318"/>
+    <location value="171"/>
+    l Cleaning frequency: clean every 2 months, according to the actual use.
+  </list>
+  <picture>
+    <location value="78"/>
+    <location value="180"/>
+    <location value="158"/>
+    <location value="268"/>
+    <src uri="assets/image_000107_033ed542134f3f47c47b6b9125f351efe5ae9b8e0b997efa122d9d50a3dc2e90.png"/>
+    <text>
+      <location value="93"/>
+      <location value="251"/>
+      <location value="135"/>
+      <location value="256"/>
+      ice maker
+    </text>
+    <text>
+      <location value="93"/>
+      <location value="258"/>
+      <location value="133"/>
+      <location value="263"/>
+      filter mesh
+    </text>
+  </picture>
+  <picture>
+    <location value="205"/>
+    <location value="179"/>
+    <location value="293"/>
+    <location value="267"/>
+    <src uri="assets/image_000108_56d92089daa1e09966ae062e56488745c3c4ede5396a933a43cfd59bcd438356.png"/>
+    <text>
+      <location value="230"/>
+      <location value="250"/>
+      <location value="271"/>
+      <location value="256"/>
+      ventilation
+    </text>
+    <text>
+      <location value="222"/>
+      <location value="258"/>
+      <location value="277"/>
+      <location value="263"/>
+      magnetic door
+    </text>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="278"/>
+    <location value="239"/>
+    <location value="286"/>
+    8.3.5 Machine sterilization cleaning
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="290"/>
+    <location value="188"/>
+    <location value="297"/>
+    l Step1：Preparation (empty water)
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="302"/>
+    <location value="458"/>
+    <location value="318"/>
+    1.Put chlorine dioxide (tablets or solution) into approximately 18-liter barrels of water according to the concentration requirements specified in the instructions, and wait for sufficient dissolution before use.
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="323"/>
+    <location value="462"/>
+    <location value="339"/>
+    2.Perform the operation of discharging residual materials. Clean the pump tubes twice, each time for 10 seconds (refer to the cleaning method for the pump tubes).
+    <ldiv/>
+    <location value="37"/>
+    <location value="344"/>
+    <location value="442"/>
+    <location value="361"/>
+    3.Perform the operation of emptying the remaining ice in the ice maker (refer to the method of ice removal and cleaning in the ice maker), and then turn off the power of the ice maker.
+    <ldiv/>
+    <location value="37"/>
+    <location value="366"/>
+    <location value="453"/>
+    <location value="392"/>
+    4.Perform the water tank emptying operation (turn off the water supply pump switch, open the drain valves of the ice maker water tank and coffee machine water tank, and close the drain valves after the water is emptied).
+  </list>
+  <text>
+    <location value="37"/>
+    <location value="397"/>
+    <location value="231"/>
+    <location value="403"/>
+    5.Empty the boiler(refer to emptying the boiler)
+  </text>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="407"/>
+    <location value="367"/>
+    <location value="414"/>
+    l Step 2: sterilization cleaning (Make the disinfectant flow through all pipelines)
+    <ldiv/>
+    <location value="37"/>
+    <location value="419"/>
+    <location value="470"/>
+    <location value="435"/>
+    1.Insert all water supply pump inlet pipes into the prepared chlorine dioxide disinfectant solution, turn on the water supply pump switch, and restart the machine.
+    <ldiv/>
+    <location value="37"/>
+    <location value="440"/>
+    <location value="121"/>
+    <location value="446"/>
+    2.Wait for self check.
+    <ldiv/>
+    <location value="37"/>
+    <location value="451"/>
+    <location value="308"/>
+    <location value="456"/>
+    3.Standard clean the machine third times (refer machine cleaning).
+    <ldiv/>
+    <location value="37"/>
+    <location value="461"/>
+    <location value="328"/>
+    <location value="467"/>
+    4.Clean ice maker once (refer to ice maker ice dispensing and cleaning).
+    <ldiv/>
+    <location value="37"/>
+    <location value="472"/>
+    <location value="237"/>
+    <location value="478"/>
+    5.Clean pump tubes twice, 10 seconds each time.
+  </list>
+  <picture>
+    <location value="277"/>
+    <location value="53"/>
+    <location value="451"/>
+    <location value="103"/>
+    <src uri="assets/image_000109_d6d67d74c03bfab5318678eacfc1b9f2500fbb49c9281e55be431b914ec07ce4.png"/>
+  </picture>
+  <picture>
+    <location value="344"/>
+    <location value="180"/>
+    <location value="420"/>
+    <location value="267"/>
+    <src uri="assets/image_000110_00b48833dfaa11b02dc6c64d0311c327ce92d91298da86d5ba0f5aefbd1709d3.png"/>
+    <text>
+      <location value="365"/>
+      <location value="250"/>
+      <location value="396"/>
+      <location value="256"/>
+      sponge
+    </text>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    34
+  </page_footer>
+  <page_break/>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="46"/>
+    <location value="153"/>
+    <location value="53"/>
+    l Step 3: clean disinfectant
+    <ldiv/>
+    <location value="37"/>
+    <location value="58"/>
+    <location value="162"/>
+    <location value="64"/>
+    1.Perform 3,4, and 5 in step 1.
+    <ldiv/>
+    <location value="37"/>
+    <location value="69"/>
+    <location value="336"/>
+    <location value="74"/>
+    2.Connect purified water and open the water pump, restart the machine.
+    <ldiv/>
+    <location value="37"/>
+    <location value="79"/>
+    <location value="122"/>
+    <location value="85"/>
+    3.Wait for self check.
+    <ldiv/>
+    <location value="37"/>
+    <location value="90"/>
+    <location value="158"/>
+    <location value="96"/>
+    4.Perform 3,4, and 5 in step 2
+    <ldiv/>
+    <location value="37"/>
+    <location value="100"/>
+    <location value="355"/>
+    <location value="107"/>
+    l Step 4: finish sterilization cleaning (make sure zero residue of disinfectant)
+    <ldiv/>
+    <location value="37"/>
+    <location value="112"/>
+    <location value="158"/>
+    <location value="117"/>
+    1.Perform 3,4 and 5 in step 1.
+    <ldiv/>
+    <location value="37"/>
+    <location value="122"/>
+    <location value="223"/>
+    <location value="128"/>
+    2.Restart the machine and wait for self check.
+    <ldiv/>
+    <location value="37"/>
+    <location value="133"/>
+    <location value="285"/>
+    <location value="139"/>
+    3.Sterilization cleaning finished, the machine is ready to use.
+    <ldiv/>
+    <location value="37"/>
+    <location value="143"/>
+    <location value="296"/>
+    <location value="150"/>
+    l Cleaning frequency:  clean every 15-30 days recommended.
+    <ldiv/>
+    <location value="37"/>
+    <location value="154"/>
+    <location value="407"/>
+    <location value="160"/>
+    l This operation is accompanied by video instructions. Please consult after-sale personal
+  </list>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    35
+  </page_footer>
+  <page_break/>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    36
+  </page_footer>
+  <page_break/>
+  <table>
+    <location value="29"/>
+    <location value="37"/>
+    <location value="480"/>
+    <location value="377"/>
+    <ched/>
+    Fault
+    <ched/>
+    Display
+    <ched/>
+    Solution
+    <nl/>
+    <fcel/>
+    machine no response
+    <fcel/>
+    -
+    <fcel/>
+    1. check power switch 2. check power plug 3. check main power
+    <nl/>
+    <fcel/>
+    all products are sold out
+    <fcel/>
+    insufficient water
+    <fcel/>
+    replenish water and press reset button
+    <nl/>
+    <fcel/>
+    coffee drinks sold out
+    <fcel/>
+    insufficient beans
+    <fcel/>
+    check bean hopper baffle
+    <nl/>
+    <fcel/>
+    iced drinks sold out
+    <fcel/>
+    ice maker abnormal
+    <fcel/>
+    1. check ice maker power switch 2. check ice maker screen, if displays no water, press→ twice, ice maker will pump water.
+    <nl/>
+    <ucel/>
+    <fcel/>
+    insufficient cups for cup dropper 2
+    <fcel/>
+    check plastic cups
+    <nl/>
+    <fcel/>
+    hot drinks sold out
+    <fcel/>
+    insufficient cups for cup dropper 1
+    <fcel/>
+    check paper cups
+    <nl/>
+    <fcel/>
+    certain drinks sold out
+    <fcel/>
+    insufficient material
+    <fcel/>
+    check recipe inventory, and replenish materials
+    <nl/>
+    <fcel/>
+    production failed, cup holder stays on cup dropping position, no cup on cup holder and light flashing
+    <fcel/>
+    cup dropping failed
+    <fcel/>
+    Power off the machine, check if there is any deformation or adhesion of the cup at the bottom of the cup dropper, which may cause the cup to get stuck. After cleaning and refilling, restart the machine
+    <nl/>
+    <fcel/>
+    production failed, cup holder stays on dispensing position, light flashing
+    <fcel/>
+    brewer operating time- out
+    <fcel/>
+    Check installation of brewer and reinstall
+    <nl/>
+    <ucel/>
+    <fcel/>
+    flow rate failure
+    <fcel/>
+    Check if the grinding level is too fine, or SMB settings, re configure the parameters and test.
+    <nl/>
+    <fcel/>
+    production lacking certain material
+    <fcel/>
+    -
+    <fcel/>
+    Check if there are any blockages in the mixer and dispensing pipe line, disassemble and clean them
+    <nl/>
+    <fcel/>
+    no network connection
+    <fcel/>
+    offline
+    <fcel/>
+    If using WIFI, check the status of the router. If using a sim card, check the for expiration. If the status is normal, replace the sim card and try again.
+    <nl/>
+  </table>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    37
+  </page_footer>
+  <page_break/>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    38
+  </page_footer>
+  <page_break/>
+  <heading level="2">
+    <location value="37"/>
+    <location value="45"/>
+    <location value="109"/>
+    <location value="52"/>
+    10.1 Storage
+  </heading>
+  <picture>
+    <location value="38"/>
+    <location value="61"/>
+    <location value="54"/>
+    <location value="70"/>
+    <src uri="assets/image_000111_ec5a9405833a69b6904170e657f260b63332768df544eceea74193490eeffb8b.png"/>
+  </picture>
+  <text>
+    <location value="37"/>
+    <location value="63"/>
+    <location value="466"/>
+    <location value="101"/>
+    Do not store the machine under low temperature, water pipeline might freeze. If you want to place the machine under low temperature, please empty the ice maker and water pipeline(refer to ice maker ice dispensing and cleaning). If the water pipeline is frozen, do not power on the machine, please place the machine under room temperature to unfreeze. !
+  </text>
+  <heading level="2">
+    <location value="37"/>
+    <location value="107"/>
+    <location value="203"/>
+    <location value="115"/>
+    10.1.1 Empty the water pipes
+  </heading>
+  <list class="ordered">
+    <ldiv>
+      <marker>1.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="120"/>
+    <location value="438"/>
+    <location value="126"/>
+    Discharge ice in ice maker(refer to ice maker ice dispensing and cleaning), turn off the ice maker power.
+    <ldiv>
+      <marker>2.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="131"/>
+    <location value="474"/>
+    <location value="147"/>
+    Empty water tang(s witch off water feeding pump, switch on the outlet valve of ice maker and the machine water tank. After empty, switch them off ).
+    <ldiv>
+      <marker>3.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="152"/>
+    <location value="455"/>
+    <location value="168"/>
+<![CDATA[Empty the boiler: s witch on the water outlet valve, enter machine back end, tap "empty water pipeline", tap "confirm" and corresponding buttons, input "64873251", tap "confirm.]]>    
+    <ldiv>
+      <marker>4.</marker>
+    </ldiv>
+    <location value="37"/>
+    <location value="173"/>
+    <location value="373"/>
+    <location value="179"/>
+    After water is empty, switch off the water outlet valve and shut down the power.
+  </list>
+  <picture>
+    <location value="124"/>
+    <location value="184"/>
+    <location value="234"/>
+    <location value="247"/>
+    <caption>
+      <location value="153"/>
+      <location value="251"/>
+      <location value="200"/>
+      <location value="264"/>
+      water outlet valve
+    </caption>
+    <src uri="assets/image_000112_d82119ec9fcd46bcde6f3997591d7c9e524c418a2bfb432b51a5cbb6c5cd9281.png"/>
+  </picture>
+  <heading level="2">
+    <location value="37"/>
+    <location value="270"/>
+    <location value="153"/>
+    <location value="278"/>
+    10.2  Transportation
+  </heading>
+  <list>
+    <ldiv/>
+    <location value="37"/>
+    <location value="286"/>
+    <location value="446"/>
+    <location value="292"/>
+    l Before transportation, the ice maker and waterway must be emptied, and then pack the machine.
+    <ldiv/>
+    <location value="37"/>
+    <location value="296"/>
+    <location value="470"/>
+    <location value="303"/>
+    l It is recommended to use the original packaging and pallets to pack the machine before transportation
+  </list>
+  <picture>
+    <location value="289"/>
+    <location value="185"/>
+    <location value="389"/>
+    <location value="248"/>
+    <src uri="assets/image_000113_16461e2b0707e8562bb2ee983170c7178e0c510d82ccd01b571cca2bd89a9a8b.png"/>
+  </picture>
+  <page_footer>
+    <layer value="furniture"/>
+    <location value="471"/>
+    <location value="482"/>
+    <location value="479"/>
+    <location value="486"/>
+    39
+  </page_footer>
+</doclang>
